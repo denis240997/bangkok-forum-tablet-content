@@ -83,10 +83,17 @@ body {
   padding: 0 30px;
 }
 
+.pageContent {
+  flex-grow: 1;
+  border-style: solid;
+
+  display: flex;
+  align-items: stretch;
+}
+
 .mainFrame {
   flex-grow: 1;
   padding: 100px 100px;
-  border-style: solid;
 
   display: grid;
   grid-template: 10fr 9fr 10fr 9fr / 1fr 1fr 6fr 1fr 1fr;
