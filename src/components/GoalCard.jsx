@@ -8,7 +8,7 @@ const GoalCard = ({ goal }) => {
                 <div className="goalNumber">{goal.number}</div>
                 <div className="goalName">{goal.name.toUpperCase()}</div>
             </div>
-            <Link to="/goal/">
+            <Link to="/goal/" state={ goal.categories }>
                 <div className="cardImgContainer">
                     <img
                         className="goalLogo"
