@@ -1,9 +1,13 @@
+import { Link } from "react-router-dom"
+
 
 const NavBrand = () => {
     return (
-        <div className="navBrand">
-            <h1>MoscowGov</h1>
-        </div>
+        <Link to="/">
+            <div className="navBrand">
+                <h1>MoscowGov</h1>
+            </div>
+        </Link>
     )
 };
 
