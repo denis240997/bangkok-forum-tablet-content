@@ -1,7 +1,3 @@
-import { useRef } from 'react';
-// import { ReactSVG } from "react-svg";
-
-
 const GoalCard = ({ goal }) => {
     return (
         <div className="goalCard" id={`goal_${goal.number}`}>
