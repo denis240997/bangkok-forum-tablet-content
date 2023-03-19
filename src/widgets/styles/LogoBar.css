@@ -1,0 +1,18 @@
+.logoBar {
+  padding: 25px;
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+}
+
+.mainLogo {
+  grid-column: 2 / 3;
+  align-self: center;
+
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.mainLogo img {
+  max-width: 100%;
+}
