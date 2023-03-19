@@ -1,8 +1,8 @@
-import MainFrame from "./MainFrame";
-import NavBar from "./NavBar";
-import content from '/src/content/content.json';
+import MainFrame from "./pages/MainFrame";
+import GoalDetailFrame from "./pages/GoalDetailFrame";
+import NavBar from "./widgets/NavBar";
+import content from './content/content.json';
 import { Route, Routes } from "react-router-dom"
-import GoalDetailFrame from "./GoalDetailFrame";
 
 
 const App = () => {

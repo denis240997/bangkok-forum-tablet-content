@@ -1,4 +1,4 @@
-import NavItem from "./NavItem"
+import NavItem from "../components/NavItem"
 
 const items = [
     {name: "Item 1"},

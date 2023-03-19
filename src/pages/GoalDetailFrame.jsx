@@ -1,4 +1,4 @@
-import SubGoalCard from "./components/SubGoalCard";
+import SubGoalCard from "../components/SubGoalCard";
 import { useLocation } from 'react-router-dom';
 
 

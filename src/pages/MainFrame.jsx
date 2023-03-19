@@ -1,5 +1,4 @@
-import GoalCard from "./components/GoalCard";
-
+import GoalCard from "../components/GoalCard";
 
 
 const MainFrame = ({ goals }) => {
