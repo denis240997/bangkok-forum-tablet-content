@@ -1,5 +1,5 @@
-import NavBrand from "./components/NavBrand";
-import NavMenu from "./components/NavMenu";
+import NavBrand from "../components/NavBrand";
+import NavMenu from "./NavMenu";
 
 
 const NavBar = () => {
