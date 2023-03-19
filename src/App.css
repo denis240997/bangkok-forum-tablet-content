@@ -7,7 +7,6 @@
   
   .pageContent {
     flex-grow: 1;
-    border-style: solid;
   
     display: flex;
     align-items: stretch;

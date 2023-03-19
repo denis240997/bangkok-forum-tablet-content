@@ -1,4 +1,4 @@
-.mainFrame {
+/* .mainFrame {
   flex-grow: 1;
   padding: 100px 100px;
 
@@ -16,4 +16,37 @@
     grid-template: 1fr 1fr / 10fr 1fr 10fr;
     gap: 20px 20px;
   }
+} */
+
+.mainFrame {
+  flex-grow: 1;
+
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+}
+
+.contentColumn {
+  padding: 20px;
+  grid-column: 2 / 4;
+
+  display: flex;
+  flex-direction: column;
+  align-items: stretch;
+}
+
+.goalCardsContainer {
+  flex-grow: 1;
+  padding: 25px 0;
+
+  display: grid;
+  grid-template: 1fr 1fr / 1fr 1fr;
+  gap: 25px;
+}
+
+.mainTitle {
+  font-family: var(--roboto-font);
+  color: var(--text-headers-blue);
+  font-size: 32px;
+  line-height: 110%;
+  text-align: center;
 }

@@ -5,12 +5,12 @@
 }
 
 @font-face {
-  font-family: Gobold;
-  src: url(/src/fonts/Gobold/Gobold\ Bold.otf);
+  font-family: Roboto;
+  src: url(/src/fonts/Roboto/Roboto-Black.ttf);
 }
 
 :root {
-  font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+  font-family: Roboto, system-ui, Avenir, Helvetica, Arial, sans-serif;
   line-height: 1.5;
   font-weight: 400;
 
@@ -27,7 +27,9 @@
   --goal-11-color: #ff9c24;
   --goal-17-color: #204c6c;
 
-  --gobold-font: Gobold, 'Oswald', sans-serif;
+  --text-headers-blue: #204C6C;
+
+  --roboto-font: Roboto, 'Oswald', sans-serif;
 }
 
 body {
