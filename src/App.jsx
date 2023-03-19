@@ -3,6 +3,7 @@ import GoalDetailFrame from "./pages/GoalDetailFrame";
 import NavBar from "./widgets/NavBar";
 import content from './content/content.json';
 import { Route, Routes } from "react-router-dom"
+import './App.css'
 
 
 const App = () => {

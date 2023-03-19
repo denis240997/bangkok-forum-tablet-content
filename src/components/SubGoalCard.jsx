@@ -1,3 +1,6 @@
+import './styles/SubGoalCard.css'
+
+
 const SubGoalCard = ({ subgoal }) => {
     return (
         <div className="subGoalCard">

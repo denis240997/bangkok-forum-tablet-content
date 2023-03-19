@@ -1,4 +1,5 @@
 import GoalCard from "../components/GoalCard";
+import './styles/MainFrame.css'
 
 
 const MainFrame = ({ goals }) => {

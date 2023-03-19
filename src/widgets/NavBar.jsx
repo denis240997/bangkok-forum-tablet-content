@@ -1,5 +1,6 @@
 import NavBrand from "../components/NavBrand";
 import NavMenu from "./NavMenu";
+import './styles/NavBar.css'
 
 
 const NavBar = () => {

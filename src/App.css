@@ -1,0 +1,14 @@
+.app {
+    min-height: 100vh;
+  
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .pageContent {
+    flex-grow: 1;
+    border-style: solid;
+  
+    display: flex;
+    align-items: stretch;
+  }

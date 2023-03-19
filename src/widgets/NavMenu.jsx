@@ -1,4 +1,5 @@
 import NavItem from "../components/NavItem"
+import './styles/NavMenu.css'
 
 const items = [
     {name: "Item 1"},

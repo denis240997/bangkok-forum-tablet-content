@@ -1,0 +1,19 @@
+.navBar {
+    padding: 20px 0;
+    border-style: solid;
+  
+    display: flex;
+    justify-content: space-between;
+  }
+
+  .navBrand {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  
+    padding: 0 30px;
+  }
+
+  .navItem {
+    padding: 0 30px;
+  }

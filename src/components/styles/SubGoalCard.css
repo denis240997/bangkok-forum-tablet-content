@@ -1,0 +1,12 @@
+.subGoalCard {
+    margin: 10px 0px;
+    border-style: solid;
+    border-color: #ffffff;
+  }
+  
+  .subGoalName {
+    color: #ffffff;
+    font-size: 1.8em;
+    font-family: var(--gobold-font);
+    padding: 15px 50px;
+  }

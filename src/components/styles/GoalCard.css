@@ -1,0 +1,85 @@
+.goalCard#goal_6 {
+  background-color: var(--goal-6-color);
+  grid-area: 1 / 3 / 2 / 5;
+}
+
+.goalCard#goal_9 {
+  background-color: var(--goal-9-color);
+  grid-area: 2 / 1 / 3 / 4;
+}
+
+.goalCard#goal_11 {
+  background-color: var(--goal-11-color);
+  grid-area: 3 / 2 / 4 / 6;
+}
+
+.goalCard#goal_17 {
+  background-color: var(--goal-17-color);
+  grid-area: 4 / 1 / 5 / 5;
+}
+
+@media screen and (min-width: 1500px) {
+  .goalCard#goal_6 {
+    grid-area: 1 / 1 / 2 / 2;
+  }
+
+  .goalCard#goal_9 {
+    grid-area: 1 / 2 / 2 / 4;
+  }
+
+  .goalCard#goal_11 {
+    grid-area: 2 / 1 / 3 / 3;
+  }
+
+  .goalCard#goal_17 {
+    grid-area: 2 / 3 / 3 / 4;
+  }
+}
+
+.goalCard img {
+  filter: invert(1);
+  opacity: 0.4;
+}
+
+.goalCard {
+  position: relative;
+}
+
+.cardNameContainer,
+.cardImgContainer {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+
+  display: flex;
+}
+
+.cardNameContainer {
+  justify-content: flex-start;
+  align-items: flex-start;
+}
+
+.cardImgContainer {
+  justify-content: center;
+  align-items: center;
+}
+
+.goalNumber,
+.goalName {
+  font-weight: bold;
+  color: #ffffff;
+  font-family: var(--gobold-font);
+  text-shadow: 3px 2px 4px rgb(0 0 0 / 0.1);
+}
+
+.goalNumber {
+  font-size: 10em;
+  line-height: 107%;
+  padding: 30px 20px 30px 20px;
+}
+
+.goalName {
+  font-size: 4em;
+  line-height: 120%;
+  padding: 30px 30px 30px 0;
+}

@@ -1,5 +1,6 @@
 import SubGoalCard from "../components/SubGoalCard";
 import { useLocation } from 'react-router-dom';
+import './styles/GoalDetailFrame.css'
 
 
 const GoalDetailFrame = () => {
