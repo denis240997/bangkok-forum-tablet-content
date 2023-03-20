@@ -12,7 +12,7 @@ const App = () => {
             <LogoBar />
             <div className="pageContent">
                 <Routes>
-                    <Route path="/" element={<MainFrame goals={content.goals} />} />
+                    <Route path="/" element={<MainFrame goals={content.goals} title={content.title} />} />
                     <Route path="/goal/" element={<GoalDetailFrame />} />
                 </Routes>
             </div>
