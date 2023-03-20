@@ -1,8 +1,113 @@
-  .subgoalCardsContainer {
-    grid-column: 4 / -4;
+.subgoalCardsContainer {
+  padding: 40px 0px 60px 0px;
+  grid-column: 4 / -4;
 
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: stretch;
-  }
+  display: grid;
+  grid-auto-rows: 300px;
+  grid-template-columns: repeat(18, 1fr);
+  gap: 30px;
+}
+
+
+.subgoalCardsContainer > .goal_6.i_0 {
+  grid-column: span 6;
+}
+.subgoalCardsContainer > .goal_6.i_1 {
+  grid-column: span 12;
+}
+.subgoalCardsContainer > .goal_6.i_2 {
+  grid-column: span 6;
+}
+.subgoalCardsContainer > .goal_6.i_3 {
+  grid-column: span 12;
+}
+
+
+.subgoalCardsContainer > .goal_9.i_0 {
+  grid-column: span 6;
+}
+.subgoalCardsContainer > .goal_9.i_1 {
+  grid-column: span 6;
+}
+.subgoalCardsContainer > .goal_9.i_2 {
+  grid-column: span 6;
+}
+.subgoalCardsContainer > .goal_9.i_3 {
+  grid-column: span 11;
+}
+.subgoalCardsContainer > .goal_9.i_4 {
+  grid-column: span 7;
+}
+.subgoalCardsContainer > .goal_9.i_5 {
+  grid-column: span 7;
+}
+.subgoalCardsContainer > .goal_9.i_6 {
+  grid-column: span 11;
+}
+.subgoalCardsContainer > .goal_9.i_7 {
+  grid-column: span 7;
+}
+.subgoalCardsContainer > .goal_9.i_8 {
+  grid-column: span 11;
+}
+.subgoalCardsContainer > .goal_9.i_9 {
+  grid-column: span 8;
+}
+.subgoalCardsContainer > .goal_9.i_10 {
+  grid-column: span 10;
+}
+
+
+.subgoalCardsContainer > .goal_11.i_0 {
+  grid-column: span 6;
+}
+.subgoalCardsContainer > .goal_11.i_1 {
+  grid-column: span 6;
+}
+.subgoalCardsContainer > .goal_11.i_2 {
+  grid-column: span 6;
+}
+.subgoalCardsContainer > .goal_11.i_3 {
+  grid-column: span 9;
+}
+.subgoalCardsContainer > .goal_11.i_4 {
+  grid-column: span 9;
+}
+.subgoalCardsContainer > .goal_11.i_5 {
+  grid-column: span 4;
+}
+.subgoalCardsContainer > .goal_11.i_6 {
+  grid-column: span 8;
+}
+.subgoalCardsContainer > .goal_11.i_7 {
+  grid-column: span 6;
+}
+
+
+.subgoalCardsContainer > .goal_17.i_0 {
+  grid-column: span 6;
+}
+.subgoalCardsContainer > .goal_17.i_1 {
+  grid-column: span 12;
+}
+.subgoalCardsContainer > .goal_17.i_2 {
+  grid-column: span 9;
+}
+.subgoalCardsContainer > .goal_17.i_3 {
+  grid-column: span 9;
+}
+.subgoalCardsContainer > .goal_17.i_4 {
+  grid-column: span 6;
+}
+.subgoalCardsContainer > .goal_17.i_5 {
+  grid-column: span 6;
+}
+.subgoalCardsContainer > .goal_17.i_6 {
+  grid-column: span 6;
+}
+.subgoalCardsContainer > .goal_17.i_7 {
+  grid-column: span 9;
+}
+.subgoalCardsContainer > .goal_17.i_8 {
+  grid-column: span 9;
+}

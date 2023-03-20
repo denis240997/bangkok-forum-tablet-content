@@ -15,10 +15,20 @@ const GoalDetailFrame = () => {
         <PageLayout title={goal.name}>
             <div className="subgoalCardsContainer">
                 {
-                    subgoals.map((goal, index) => (
-                        goal.name
-                            ? <SubGoalCard subgoal={goal} key={index} />
-                            : <ImageCard src={goal.href} key={index} />
+                    subgoals.map((subgoal, index) => (
+                        subgoal.name
+                            ? <SubGoalCard
+                                subgoal={subgoal}
+                                key={index}
+                                index={index}
+                                goal={goal}
+                            />
+                            : <ImageCard
+                                src={subgoal.href}
+                                key={index}
+                                index={index}
+                                goal={goal}
+                            />
                     ))
                 }
             </div>
