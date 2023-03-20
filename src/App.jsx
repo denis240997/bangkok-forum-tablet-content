@@ -1,5 +1,6 @@
 import MainFrame from "./pages/MainFrame";
 import GoalDetailFrame from "./pages/GoalDetailFrame";
+import DetailFrame from "./pages/DetailFrame";
 import LogoBar from "./widgets/LogoBar";
 import content from './content/content.json';
 import { Route, Routes } from "react-router-dom"
@@ -14,6 +15,7 @@ const App = () => {
                 <Routes>
                     <Route path="/" element={<MainFrame goals={content.goals} title={content.title} />} />
                     <Route path="/goal/" element={<GoalDetailFrame />} />
+                    <Route path="/goal/detail/" element={<DetailFrame />} />
                 </Routes>
             </div>
         </div>

@@ -1,0 +1,13 @@
+.detailContainer {
+  padding: 40px 0px 60px 0px;
+  grid-column: 6 / -6;
+
+  font-family: InterMedium;
+  font-size: 26px;
+  line-height: 33px;
+  text-align: left;
+}
+
+.detailContainer > * {
+    margin-bottom: 19px;
+}

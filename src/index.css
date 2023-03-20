@@ -15,8 +15,13 @@
 }
 
 @font-face {
-  font-family: Inter;
+  font-family: InterSemiBold;
   src: url(/src/fonts/Inter/static/Inter-SemiBold.ttf);
+}
+
+@font-face {
+  font-family: InterMedium;
+  src: url(/src/fonts/Inter/static/Inter-Medium.ttf);
 }
 
 :root {
