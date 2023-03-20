@@ -14,6 +14,14 @@
                     ]
                 },
                 {
+                    "type": "tile_picture",
+                    "href": "/src/content/img/goal_tile_pictures/goal_6_1.png"
+                },
+                {
+                    "type": "tile_picture",
+                    "href": "/src/content/img/goal_tile_pictures/goal_6_2.png"
+                },
+                {
                     "name": "Raising awareness of responsible water consumption",
                     "subcategories": [
                         {
@@ -85,6 +93,18 @@
                     ]
                 },
                 {
+                    "name": "Project “Vision Zero”",
+                    "content": []
+                },
+                {
+                    "name": "Supplier Portal",
+                    "content": []
+                },
+                {
+                    "type": "tile_picture",
+                    "href": "/src/content/img/goal_tile_pictures/goal_9_3.png"
+                },
+                {
                     "name": "I.Moscow, Moscow Innovation Cluster Program",
                     "content": [
                         "The Moscow Innovation Cluster (MIC) is a Moscow Government-sponsored project created in April 2019 in order to foster development of innovative organizations, projects and cooperation between large companies, industries, small and medium-sized businesses, educational and scientific organizations and the city. The cluster brings together entrepreneurship, development institutions, authorities and other market stakeholders who need effective tools to create innovative and technology-intensive projects. As of today, more than 35,000 organizations are listed as participants and partners of the Moscow Innovation Cluster, including the Skolkovo Foundation, the Research Centre Kurchatov Institute, Rosnano Corp., technology parks Strogino and Slava, small and medium-sized enterprises, as well as research centers of Moscow\u0432\u0402\u2122s major universities.",
@@ -129,19 +149,15 @@
                     ]
                 },
                 {
-                    "name": "Moscow’s Digital Twin",
-                    "content": []
-                },
-                {
-                    "name": "Supplier Portal",
-                    "content": []
-                },
-                {
                     "name": "Program for the creation of workplaces",
                     "content": []
                 },
                 {
-                    "name": "Special economic zone “Technopolis”",
+                    "type": "tile_picture",
+                    "href": "/src/content/img/goal_tile_pictures/goal_9_6.png"
+                },
+                {
+                    "name": "Moscow’s Digital Twin",
                     "content": []
                 },
                 {
@@ -149,7 +165,11 @@
                     "content": []
                 },
                 {
-                    "name": "Project “Vision Zero”",
+                    "type": "tile_picture",
+                    "href": "/src/content/img/goal_tile_pictures/goal_9_9.png"
+                },
+                {
+                    "name": "Special economic zone “Technopolis”",
                     "content": []
                 }
             ]
@@ -164,14 +184,6 @@
                     "content": []
                 },
                 {
-                    "name": "mos.ru",
-                    "content": []
-                },
-                {
-                    "name": "Citizens’ involvement in the city’s development",
-                    "content": []
-                },
-                {
                     "name": "Transportation System Development",
                     "content": []
                 },
@@ -180,11 +192,23 @@
                     "content": []
                 },
                 {
-                    "name": "Environmental monitoring",
+                    "name": "Citizens’ involvement in the city’s development",
+                    "content": []
+                },
+                {
+                    "type": "tile_picture",
+                    "href": "/src/content/img/goal_tile_pictures/goal_11_4.png"
+                },
+                {
+                    "name": "mos.ru",
                     "content": []
                 },
                 {
                     "name": "Ecological education",
+                    "content": []
+                },
+                {
+                    "name": "Environmental monitoring",
                     "content": []
                 }
             ]
@@ -195,15 +219,11 @@
             "logo": "/src/content/img/goal_logos/17.svg",
             "categories": [
                 {
-                    "name": "Moscow Urbanistic Forum",
-                    "content": []
+                    "type": "tile_picture",
+                    "href": "/src/content/img/goal_tile_pictures/goal_17_0.png"
                 },
                 {
-                    "name": "Citywide Wi-Fi network",
-                    "content": []
-                },
-                {
-                    "name": "RussPass Tourist Service",
+                    "name": "E-platforms to engage city dwellers in Moscow development",
                     "content": []
                 },
                 {
@@ -211,11 +231,27 @@
                     "content": []
                 },
                 {
-                    "name": "E-platforms to engage city dwellers in Moscow development",
+                    "type": "tile_picture",
+                    "href": "/src/content/img/goal_tile_pictures/goal_17_3.png"
+                },
+                {
+                    "name": "Citywide Wi-Fi network",
+                    "content": []
+                },
+                {
+                    "name": "Moscow Urbanistic Forum",
                     "content": []
                 },
                 {
                     "name": "Moscow Medical Cluster",
+                    "content": []
+                },
+                {
+                    "type": "tile_picture",
+                    "href": "/src/content/img/goal_tile_pictures/goal_17_7.png"
+                },
+                {
+                    "name": "RussPass Tourist Service",
                     "content": []
                 }
             ]
