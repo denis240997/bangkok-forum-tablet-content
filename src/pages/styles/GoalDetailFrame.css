@@ -1,14 +1,6 @@
-.goalDetailFrame {
-    padding: 20px 30px;
-    background-color: #204c6c;
-  
-    flex-grow: 1;
-    display: flex;
-    justify-content: center;
-    align-items: stretch;
-  }
-  
-  .goalDetailColumn {
+  .subgoalCardsContainer {
+    grid-column: 4 / -4;
+
     display: flex;
     flex-direction: column;
     justify-content: center;

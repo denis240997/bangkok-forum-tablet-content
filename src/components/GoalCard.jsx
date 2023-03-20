@@ -6,7 +6,7 @@ const GoalCard = ({ goal }) => {
     return (
         <Link
             to="/goal/"
-            state={goal.categories}
+            state={goal}
             className="goalCard"
             id={`goal_${goal.number}`}
         >
