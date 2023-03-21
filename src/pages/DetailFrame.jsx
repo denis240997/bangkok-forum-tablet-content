@@ -2,6 +2,7 @@ import PageLayout from "./PageLayout";
 import { useLocation } from 'react-router-dom';
 import './styles/DetailFrame.css'
 import BottomNav from "../widgets/BottomNav";
+import DetailList from "../components/DetailList";
 
 
 const DetailFrame = () => {
@@ -15,7 +16,7 @@ const DetailFrame = () => {
             case "awards":
                 return <p key={index} >awards</p>;
             case "list":
-                return <p key={index} >list</p>;
+                return <DetailList key={index} items={item.content} />;
             case "logo":
                 return <p key={index} >logo</p>;
             case "href":
