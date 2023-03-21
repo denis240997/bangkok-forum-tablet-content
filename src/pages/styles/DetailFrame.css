@@ -13,3 +13,7 @@
 .detailContainer > * {
     margin-bottom: 19px;
 }
+
+.clear {
+  clear: both;
+}

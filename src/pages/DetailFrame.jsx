@@ -20,7 +20,7 @@ const DetailFrame = () => {
             case "list":
                 return <DetailList key={index} items={item.content} />;
             case "logo":
-                return <DetailLogo key={index} src={item.href} />;
+                return "";
             case "href":
                 return <p key={index} >href</p>;
             default:
@@ -31,6 +31,10 @@ const DetailFrame = () => {
     return (
         <PageLayout title={goal.name}>
             <div className="detailContainer">
+                {
+                    content.filter((item) => (item.type === "logo"))
+                        .map((item, index) => <DetailLogo key={index} src={item.href} />)
+                }
                 {
                     content.map((item, index) => (
                         setContent(item, index)
