@@ -1,20 +1,20 @@
 import './styles/LogoBar.css'
 import MainLogo from "/src/content/img/tile_pictures/header_logos.png"
-import { Link } from "react-router-dom"
+import { useNavigate } from 'react-router-dom';
 
 
 const LogoBar = () => {
+
+    const navigate = useNavigate();
+
     return (
         <div className="logoBar">
-            <div className="mainLogo">
-                <Link to="/">
-                    <img
-                        src={MainLogo}
-                        // width="580"
-                        alt="The Government of Moscow"
-                    />
-                </Link>
-            </div>
+            <img
+                className="mainLogo"
+                src={MainLogo}
+                alt="The Government of Moscow"
+                onClick={() => navigate("/")}
+            />
         </div>
     )
 };
