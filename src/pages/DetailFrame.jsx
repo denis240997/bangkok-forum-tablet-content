@@ -20,7 +20,7 @@ const DetailFrame = () => {
             case "list":
                 return <DetailList key={index} items={item.content} />;
             case "logo":
-                return "";
+                return ""; // done in advance
             case "href":
                 return <p key={index} >href</p>;
             default:
