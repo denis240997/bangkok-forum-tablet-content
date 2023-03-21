@@ -1,0 +1,27 @@
+.navButton {
+    border-style: solid;
+    border-width: 1px;
+    border-color: var(--text-headers-blue);
+    color: var(--text-headers-blue);
+    font-family: RobotoMedium;
+    font-size: 20px;
+    padding: 25px;
+    padding-left: 50px;
+    position: relative;
+
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.navButtonText {
+    margin-right: 13px;
+}
+
+.navButton > a {
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 100%;
+    width: 100%;
+}

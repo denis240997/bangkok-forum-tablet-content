@@ -1,0 +1,9 @@
+.bottomNav {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+
+    display: inline-grid;
+    grid-template-columns: 1fr 1fr;
+    column-gap: 60px;
+}

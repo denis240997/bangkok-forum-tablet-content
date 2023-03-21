@@ -1,6 +1,7 @@
 import PageLayout from "./PageLayout";
 import { useLocation } from 'react-router-dom';
 import './styles/DetailFrame.css'
+import BottomNav from "../widgets/BottomNav";
 
 
 const DetailFrame = () => {
@@ -32,6 +33,7 @@ const DetailFrame = () => {
                         setContent(item, index)
                     ))
                 }
+                <BottomNav />
             </div>
         </PageLayout>
     )

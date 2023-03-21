@@ -3,6 +3,7 @@ import SubGoalCard from "../components/SubGoalCard";
 import ImageCard from "../components/ImageCard";
 import { useLocation } from 'react-router-dom';
 import './styles/GoalDetailFrame.css'
+import BottomNav from "../widgets/BottomNav";
 
 
 const GoalDetailFrame = () => {
@@ -31,6 +32,7 @@ const GoalDetailFrame = () => {
                             />
                     ))
                 }
+                <BottomNav />
             </div>
         </PageLayout>
     )
