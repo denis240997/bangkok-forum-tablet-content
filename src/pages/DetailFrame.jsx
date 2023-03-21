@@ -5,6 +5,7 @@ import BottomNav from "../widgets/BottomNav";
 import DetailList from "../components/DetailList";
 import Awards from "../widgets/Awards";
 import DetailLogo from "../components/DetailLogo";
+import DetailQR from "../components/DetailQR";
 
 
 const DetailFrame = () => {
@@ -22,7 +23,7 @@ const DetailFrame = () => {
             case "logo":
                 return ""; // done in advance
             case "href":
-                return <p key={index} >href</p>;
+                return <DetailQR key={index} href={item.href} />;
             default:
                 return <p key={index} >{item}</p>;
         };

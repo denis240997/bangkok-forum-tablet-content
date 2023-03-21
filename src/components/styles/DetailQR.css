@@ -1,0 +1,52 @@
+.modalBackground {
+    background-color: rgba(0, 0, 0, 0.8);
+
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100vw;
+    height: 100vh;
+    z-index: 240997;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.modalQRCode {
+    background-color: white;
+    width: 550px;
+    height: 550px;
+    border-radius: 10px;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.hintQRCode {
+    margin-top: 60px;
+    color: white;
+    font-family: RobotoBold;
+    font-size: 35px;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.hintQRCode > img {
+    margin: 15px;
+    width: 100px;
+    filter: invert(100%) sepia(0%) saturate(7432%) hue-rotate(184deg) brightness(107%) contrast(100%);
+}
+
+.expandButton {
+    margin-top: 10px;
+    font-family: RobotoMedium;
+    font-size: 27px;
+    text-decoration: dashed underline;
+    color: var(--text-headers-blue);
+}
