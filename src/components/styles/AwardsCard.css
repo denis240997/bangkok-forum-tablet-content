@@ -1,0 +1,31 @@
+.awardCard {
+    border-style: dashed;
+    border-width: 1px;
+    padding: 27px 32px;
+
+    display: flex;
+    flex-direction: column;
+}
+
+.awardCard > .header {
+    display: flex;
+    align-items: center;
+}
+
+.awardList {
+    margin-top: 20px;
+    list-style: none;
+    font-family: RobotoBold;
+    font-size: 25px;
+    color: var(--text-headers-blue);
+}
+
+.awardList > li {
+    margin-bottom: 10px;
+}
+
+.awardsYear {
+    color: var(--text-orange);
+    font-family: InterSemiBold;
+    font-size: 40px;
+}
