@@ -1,15 +1,16 @@
-import { Link } from "react-router-dom";
+import { useNavigate } from "react-router-dom";
 import "./styles/NavButton.css"
 
+const BackButton = ({ text, icon, dest }) => {
 
-const NavButton = ({ text, icon, dest }) => {
+    const navigate = useNavigate();
+
     return (
-        <div className="navButton">
+        <div className="navButton" onClick={() => navigate(dest)}>
             <div className="navButtonText">{text.toUpperCase()}</div>
             <img className="navButtonIcon" src={icon}/>
-            <Link to={dest} />
         </div>
     );
 };
 
-export default NavButton;
+export default BackButton;

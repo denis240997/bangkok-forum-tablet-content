@@ -7,7 +7,7 @@ import "./styles/BottomNav.css"
 const BottomNav = () => {
     return (
         <div className="bottomNav">
-            <NavButton text="back" icon={ArrowIcon} dest="/" />
+            <NavButton text="back" icon={ArrowIcon} dest={-1} />
             <NavButton text="home" icon={HomeIcon} dest="/" />
         </div>
     );
