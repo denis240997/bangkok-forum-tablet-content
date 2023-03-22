@@ -22,8 +22,8 @@ const DetailFrame = () => {
                 return <DetailList key={index} items={item.content} />;
             case "image":
                 return <h1 key={index} >IMAGE</h1>;
-            case "href":
-                return <h1 key={index} >HREF</h1>;
+            case "readmore":
+                return <DetailQR key={index} href={item.href} />;
             case "subcategory":
                 return <p key={index} style={{color: "red"}}>{JSON.stringify(item)}</p>;
             default:
@@ -41,9 +41,6 @@ const DetailFrame = () => {
                     content.map((item, index) => (
                         setContent(item, index)
                     ))
-                }
-                {
-                    goal.href ? <DetailQR key={'href'} href={goal.href} /> : ""
                 }
                 <div className="clear"></div>
                 <BottomNav />

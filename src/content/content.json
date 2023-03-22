@@ -106,7 +106,6 @@
                 {
                     "name": "I.Moscow, Moscow Innovation Cluster Program",
                     "logo": "/src/content/img/moscow_innovation_cluster.svg",
-                    "href": "https://i.moscow/",
                     "content": [
                         "The Moscow Innovation Cluster (MIC) is a Moscow Government-sponsored project created in April 2019 in order to foster development of innovative organizations, projects and cooperation between large companies, industries, small and medium-sized businesses, educational and scientific organizations and the city. The cluster brings together entrepreneurship, development institutions, authorities and other market stakeholders who need effective tools to create innovative and technology-intensive projects. As of today, more than 35,000 organizations are listed as participants and partners of the Moscow Innovation Cluster, including the Skolkovo Foundation, the Research Centre Kurchatov Institute, Rosnano Corp., technology parks Strogino and Slava, small and medium-sized enterprises, as well as research centers of Moscow\u2019s major universities.",
                         "The IT platform of the Moscow Innovation Cluster, i.Moscow, combines the necessary tools and services for creating and managing innovative projects, from electronic submission of applications for support measures and providing pilot sites, to assistance in finding new clients, partners and investors. i.Moscow in figures: over 35,000 participants and partners, 195 support measures, 1,900 premises available for rent, over 1,500 projects, and a partner search tool (investments, premises, industrial partners). An important part of i.Moscow is occupied by social innovations; their implementation will significantly improve the quality of living in the city. That said, electronic filings for services allow all citizens, including people with disabilities, to use the services.",
@@ -120,6 +119,10 @@
                                 "More than 200 support measures are available to the members of the cluster",
                                 "Over 550 manufacturers have been registered on the contract manufacturing exchange"
                             ]
+                        },
+                        {
+                            "type": "readmore",
+                            "href": "https://i.moscow/"
                         },
                         {
                             "type": "awards",
