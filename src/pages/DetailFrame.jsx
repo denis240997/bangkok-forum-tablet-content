@@ -41,7 +41,7 @@ const DetailFrame = () => {
                         setContent(item, index)
                     ))
                 }
-                <div class="clear"></div>
+                <div className="clear"></div>
                 <BottomNav />
             </div>
         </PageLayout>
