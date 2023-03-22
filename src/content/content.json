@@ -31,17 +31,23 @@
                                 "Since 2012, Moscow residents have been submitting water meter readings online through a convenient service on the Moscow Mayor\u2019s portal, mos.ru. The service boasts a monthly audience of 1 million people. Water meters register actual water consumption, and people pay for the amount actually consumed. In order to encourage citizens to save water and draw their attention to the problem of sustainable use of natural resources, the service coverage was expanded and the following features were added to the existing service in 2021: charts and comparisons (users can see a visualized analysis of water consumption in comparison with the average figures for the city); emotional reinforcement (e.g., if water consumption goes down, the service will send a notification with a positive emoji); tips on how to reduce water consumption. In addition, the users are encouraged to take an interactive test that will help them find out how economically water is used in the house. Based on its results, tips are offered on how to avoid unnecessary water consumption.",
                                 "In June 2021, a special project, Clean Water: How It Works, was launched on the mos.ru portal: mos.ru/city/projects/water. It features the most important and useful information about water, says how and why you need to save it. It describes large-scale processes of water production and treatment, and the path water takes before it reaches your faucets.",
                                 "The water-saving project was acknowledged as one of the best smart city living services in the Smart Living category of the international German Innovation Award.",
-                                "The goal of the project is to see a 2% reduction in water consumption by service users."
-                            ],
-                            "href": "https://www.mos.ru/city/projects/water/"
+                                "The goal of the project is to see a 2% reduction in water consumption by service users.",
+                                {
+                                    "type": "readmore",
+                                    "href": "https://www.mos.ru/city/projects/water/"
+                                }
+                            ]
                         },
                         {
                             "type": "subcategory",
                             "name": "Utilization of AR technologies",
                             "content": [
-                                "To support the service and involve even more people in the project, an augmented reality (AR) campaign, The Price of Water, was conducted from February to April 2021. The key idea was to show how much effort and energy is actually spent on bringing water to households. In an interactive format, the users walked the entire path of a drop of water, from the moment it enters a body of water to the minute it reaches the faucet in their apartment. A special QR code was printed on the back side of the Unified Payment Document, a receipt for housing and utility services. (Twelve million papers were printed in total.) Scanning the code with a smartphone camera launched an interactive presentation with elements of augmented reality. With the help of AR, different stages of water treatment are shown, as water gets purified and becomes potable. The user is invited to \u201claunch\u201d the process of preparing water for supply to households, e.g., to start the purification procedure, open the pumps and taps."
-                            ],
-                            "href": "https://clean-water.arweb.app/"
+                                "To support the service and involve even more people in the project, an augmented reality (AR) campaign, The Price of Water, was conducted from February to April 2021. The key idea was to show how much effort and energy is actually spent on bringing water to households. In an interactive format, the users walked the entire path of a drop of water, from the moment it enters a body of water to the minute it reaches the faucet in their apartment. A special QR code was printed on the back side of the Unified Payment Document, a receipt for housing and utility services. (Twelve million papers were printed in total.) Scanning the code with a smartphone camera launched an interactive presentation with elements of augmented reality. With the help of AR, different stages of water treatment are shown, as water gets purified and becomes potable. The user is invited to \u201claunch\u201d the process of preparing water for supply to households, e.g., to start the purification procedure, open the pumps and taps.",
+                                {
+                                    "type": "readmore",
+                                    "href": "https://clean-water.arweb.app/"
+                                }
+                            ]
                         }
                     ]
                 }
@@ -71,6 +77,10 @@
                             ]
                         },
                         {
+                            "type": "readmore",
+                            "href": "https://en.investmoscow.ru/?ysclid=lfchk6muf0221233331"
+                        },
+                        {
                             "type": "awards",
                             "content": [
                                 {
@@ -93,11 +103,62 @@
                 },
                 {
                     "name": "Project “Vision Zero”",
-                    "content": []
+                    "content": [
+                        "In an attempt to reduce mortality from road accidents, Moscow uses the approaches of the Swedish program Vision Zero. Vision Zero is an international concept for improving road safety, which strives to reduce mortality from road accidents. It was first adopted by the Swedish Parliament in 1997. Moscow has achieved a record high level of road safety. Despite high traffic density and an increase in the number of cars, the accident rate has been declining steadily for ten years. The social risk (the number of people killed in road accidents per 100,000 people) decreased twofold compared to 2010, from 6.6 to 3. Russian President Vladimir Putin ordered that a social risk factor of no more than 4.0 should be achieved by 2024. The Moscow City Government spearheaded the initiative and reached that figure ahead of schedule.",
+                        "Within the framework of the Vision Zero project, the following activities have been organized:",
+                        {
+                            "type": "list",
+                            "content": [
+                                "ongoing analysis of the accident rate;",
+                                "development of measures to improve road safety;",
+                                "awareness campaigns with extensive promotion of observance of traffic regulations;",
+                                "design of safe road and traffic infrastructure."
+                            ]
+                        },
+                        "In 2019, a Vision Zero task force was set up. It is active in analyzing severe accidents and developing preventive measures. The task force includes representatives of the Department of Transport and Road Infrastructure Development of the City of Moscow, Center of the Traffic Organization, Moscow\u2019s public transport authority, traffic police, prefectures of administrative districts, Department of Housing, Utilities and Amenities, Joint Administrative and Technical Inspectorates, Motor Roads (state-funded entity), Department of Capital Repairs and Construction. Since 2010, the number of accidents in Moscow has decreased by 3.5 times."
+                    ]
                 },
                 {
                     "name": "Supplier Portal",
-                    "content": []
+                    "logo": "/src/content/img/supplier_portal.png",
+                    "content": [
+                        "The Supplier Portal is a B2G resource that helps state customers and private entrepreneurs close online deals. Registration and participation in online transactions are free of charge.",
+                        "The resource offers 3 main types of procurement:",
+                        {
+                            "type": "list",
+                            "content": [
+                                "Electronic Store. Small and medium-sized enterprises publish prices for the supplied goods, works, services, and state customers select reliable partners with the best prices or supply terms;",
+                                "Mini-auction. The customer publishes a list of necessary specifications; the suppliers make bids; the winner is automatically selected by the lowest price of the last offer;",
+                                "Collecting Offers. The customer publishes necessary specifications, suppliers provide their offers, and the customer chooses the winner that offers the best terms."
+                            ]
+                        },
+                        "On the back of the procurement process, the parties exchange electronic documents, and conclude a contract using a digital electronic signature.",
+                        "A catalog of goods, works and services, formed on the basis of the suppliers\u2019 price lists, contains more than 1.7 million unique items. When a new catalog item is created, the product image is automatically analyzed and the user is recommended a category for placing new products.",
+                        "Based on previous history of activities and downloaded products, artificial intelligence (AI) algorithms are used to generate a list of recommendations for suppliers with respect to planned purchases. AI is also used in the chatbot, which handles 70% of customer service calls.",
+                        {
+                            "type": "readmore",
+                            "href": "https://zakupki.mos.ru/en"
+                        },
+                        {
+                            "type": "subcategory",
+                            "name": "Project “Land for 1 ruble”",
+                            "content": [
+                                "A project to support large-scale investment projects in Moscow, including provision of a land plot for lease without bidding for a period of 5 years at a preferential rental rate of 1 ruble.",
+                                "This allows businesses to reduce the cost of creating jobs, as well as to establish production of important products for capital city\u2019s life and economy within a short time period."
+                            ]
+                        },
+                        {
+                            "type": "subcategory",
+                            "name": "Status “Industrial Complex”, “Industrial Park”, “Technopark”",
+                            "content": [
+                                "Industrial complex: the status assigned to Moscow-based industrial enterprises, scientific enterprises with the status of state scientific center (allowable share of revenues generated from manufacturing production is to be at least 25%).",
+                                "Industrial park: the status assigned to a complex of real estate properties under single management, if that complex consists of land plots with production, administrative, warehouse buildings and facilities, and is provided with energy resources, engineering and transport infrastructure.",
+                                "Technopark: an asset of industrial and technological innovation infrastructure, which facilitates development of high-tech resident companies.",
+                                "Applicants for each status are required to meet requirements for minimum revenue, investment, payroll and average monthly salary of employees.",
+                                "In 2022, as part of anti-crisis measures to support businesses, Sergey Sobyanin, Mayor of Moscow, decided to automatically renew the special statuses for a period of one year, allowing companies to keep the benefits without mandatory confirmation."
+                            ]
+                        }
+                    ]
                 },
                 {
                     "type": "tile_picture",
@@ -105,7 +166,7 @@
                 },
                 {
                     "name": "I.Moscow, Moscow Innovation Cluster Program",
-                    "logo": "/src/content/img/moscow_innovation_cluster.svg",
+                    "logo": "/src/content/img/moscow_innovation_cluster.png",
                     "content": [
                         "The Moscow Innovation Cluster (MIC) is a Moscow Government-sponsored project created in April 2019 in order to foster development of innovative organizations, projects and cooperation between large companies, industries, small and medium-sized businesses, educational and scientific organizations and the city. The cluster brings together entrepreneurship, development institutions, authorities and other market stakeholders who need effective tools to create innovative and technology-intensive projects. As of today, more than 35,000 organizations are listed as participants and partners of the Moscow Innovation Cluster, including the Skolkovo Foundation, the Research Centre Kurchatov Institute, Rosnano Corp., technology parks Strogino and Slava, small and medium-sized enterprises, as well as research centers of Moscow\u2019s major universities.",
                         "The IT platform of the Moscow Innovation Cluster, i.Moscow, combines the necessary tools and services for creating and managing innovative projects, from electronic submission of applications for support measures and providing pilot sites, to assistance in finding new clients, partners and investors. i.Moscow in figures: over 35,000 participants and partners, 195 support measures, 1,900 premises available for rent, over 1,500 projects, and a partner search tool (investments, premises, industrial partners). An important part of i.Moscow is occupied by social innovations; their implementation will significantly improve the quality of living in the city. That said, electronic filings for services allow all citizens, including people with disabilities, to use the services.",
@@ -146,7 +207,10 @@
                 },
                 {
                     "name": "Program for the creation of workplaces",
-                    "content": []
+                    "content": [
+                        "A program aimed at integrated development of residential areas, taking into account the need for jobs, scaling back commuting to the city center and reducing the burden on roads and public transport.",
+                        "Background information on the workplaces program in the archive folder"
+                    ]
                 },
                 {
                     "type": "tile_picture",
@@ -154,11 +218,72 @@
                 },
                 {
                     "name": "Moscow’s Digital Twin",
-                    "content": []
+                    "content": [
+                        "The Digital Twin of Moscow is a city management tool based on a 2,500-square km 3D model of the capital city, which integrates street panoramas, models, information about buildings and facilities, up-to-date spatial information, geoanalytics tools and other data, which comprise more than 5,000 information layers.",
+                        "The Digital Twin helps take a comprehensive approach to the development of infrastructure and city improvement, taking into account all parameters and development scenarios. For example, users can change parameters of the model online, including the location of the designed infrastructure facilities, the characteristics of landscaping elements, evaluate everything and pick the best development scenario.",
+                        "The Digital Twin is in high demand in urban planning and city development\u2014for example, in citywide and territorial planning and development (with legal restrictions taken into account). For instance, ahead of the construction of a new residential complex, experts can visually assess the future architectural appearance of the area, simulate all stages of the future construction (from design documentation to landscaping of the courtyard area), assess the impact of the new facility on the load of public transport, schools, and hospitals. Modeling of road infrastructure with the Digital Twin facilitates optimization of traffic flows in the city.",
+                        {
+                            "type": "readmore",
+                            "href": "https://ict.moscow/projects/smartcitymoscow/case/tsifrovoi-dvoinik-goroda-moskvy/"
+                        },
+                        {
+                            "type": "awards",
+                            "content": [
+                                {
+                                    "year": "2020",
+                                    "awards": [
+                                        "The Digital Twin of Moscow received the ISOCARP Award for Excellence",
+                                        "The project became the winner of the TAdviser IT-PRIZE in information technology in the \u201cDigital Twin of the Year\u201d nomination"
+                                    ]
+                                },
+                                {
+                                    "year": "2021",
+                                    "awards": [
+                                        "The Digital Twin of Moscow became one of the winners of the IX all-Russian competition of regional and municipal informatization projects PROF-IT.2021 in the \u2018Best Innovative Project\u2019 nomination"
+                                    ]
+                                },
+                                {
+                                    "year": "2022",
+                                    "awards": [
+                                        "The project received a prize of the Digital Summit Award 2021 in the \u2018Best IT Solution for Smart City\u2019 nomination"
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
                 },
                 {
                     "name": "Pilot testing of innovative solutions",
-                    "content": []
+                    "content": [
+                        "Pilot testing of innovative solutions in Moscow is carried out in accordance with Decree No. 631-PP of the Moscow Government, dated May 27, 2020, \u201cOn Pilot Testing of Innovative Solutions in the City of Moscow.\u201d",
+                        "Prerequisites:",
+                        {
+                            "type": "list",
+                            "content": [
+                                "Overcoming barriers to bringing new products to market;",
+                                "Receiving feedback from potential users by developers;",
+                                "Customizing innovative solutions, catering to the needs of the customer."
+                            ]
+                        },
+                        "Target audience:",
+                        {
+                            "type": "list",
+                            "content": [
+                                "Russian and international technology companies offering innovations for the city;",
+                                "State-owned and commercial organizations, recognized leaders in the implementation of innovations in their industries."
+                            ]
+                        },
+                        "Objectives:",
+                        {
+                            "type": "list",
+                            "content": [
+                                "Promoting innovation in the urban environment;",
+                                "Verifying technological and economic efficiency of introducing innovations."
+                            ]
+                        },
+                        "About 250 pilot tests have been completed. 100 grant applications already approved.",
+                        "As of early 2023, more than 200 pilot testing sites are enrolled in the program."
+                    ]
                 },
                 {
                     "type": "tile_picture",
@@ -166,7 +291,12 @@
                 },
                 {
                     "name": "Special economic zone “Technopolis”",
-                    "content": []
+                    "content": [
+                        {
+                            "type": "readmore",
+                            "href": "https://technomoscow.com/"
+                        }
+                    ]
                 }
             ]
         },
@@ -177,19 +307,384 @@
             "categories": [
                 {
                     "name": "Housing renewal",
-                    "content": []
+                    "content": [
+                        {
+                            "type": "subcategory",
+                            "name": "Digital super-service “Moving under the Renovation Program”",
+                            "content": [
+                                "The \u201cMoving under the Renovation Program\u201d super-service is an information resource for participants in the program, which involves construction of new comfortable houses to replace obsolete housing and resettlement of former residents. The service helps people who move into a new house at different stages of moving to a new apartment.",
+                                "Detailed instructions have been prepared to help tenants get ready for moving to a new apartment, including general instructions (providing information about the documents necessary for relocation and the actions that need to be taken to buy additional living space) and instructions for special cases.",
+                                "All participants of the renovation program, who are currently moving to a new apartment, have access to an interactive personal instruction and six free electronic online services:",
+                                {
+                                    "type": "list",
+                                    "content": [
+                                        "hiring movers;",
+                                        "scheduling an appointment for a lookover of the proposed apartment;",
+                                        "filing an application for elimination of construction defects after inspecting the apartment;",
+                                        "scheduling an appointment with a notary;",
+                                        "pre-registration for concluding an agreement for an apartment;",
+                                        "online downloading of required documents."
+                                    ]
+                                },
+                                "The service page also provides links to other city online services and contacts of institutions that may be needed when relocating.",
+                                "Super service users are informed about the stages of relocation in their personal account on mos.ru, by email or by push notifications in the city\u2019s mobile applications. In particular, using those messages, the service notifies users about the start of relocation, offers a visit to the new apartment, suggests signing a statement of consent or refusal, asks residents to sign an agreement, notifies them of elimination of construction defects in the new apartment (if such defects were identified during the lookover) and invites them to a second viewing.",
+                                "The super service page has been visited by 350,000+ unique users, both current participants of the program and city dwellers interested in the stages of resettlement.",
+                                "Since the information service was launched, participants of the renovation program have received over 400,000 electronic notifications on the stages of resettlement.",
+                                {
+                                    "type": "readmore",
+                                    "href": "https://ict.moscow/en/projects/smartcitymoscow/case/state-assistance-with-removal/"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "subcategory",
+                            "name": "Moscow Housing Renovation Program",
+                            "content": [
+                                "The renovation program was launched by the Moscow government on August 1, 2017. Thanks to this initiative, more than 1 million Muscovites will move from dilapidated five-story buildings into high-quality modern houses. Program participants receive equivalent housing in their neighborhood. New apartments are provided with improved finish.",
+                                "The renovation program includes houses built between 1957 and 1968 according to standard projects of the first period of industrial house-building, as well as houses with similar construction features.",
+                                "By now, a considerable part of those houses has reached a high degree of obsolescence and deterioration, and their design features do not allow for major repairs.",
+                                "Based on the results of a survey of the bearing and non-bearing elements, engineering systems and equipment, it was found that the technical condition of the houses is characterized by a decrease in the bearing capacity and operational characteristics of the building structures. No repair works would bring about qualitative technical changes and improvement of living conditions with observance of safety measures. In case of further operation, those houses would fall into an unacceptable condition in the next 10 to 15 years and would become unlivable.",
+                                "The renovation program adopted for the period until 2032 is designed to renovate the housing stock and to prevent mass build-up of unfit housing in the capital city. It will enable qualitative improvement of the urban environment. Comfortable and well-appointed neighborhoods would appear, and availability of infrastructure would increase through rational and efficient planning of the territories. These activities would contribute to the formation of a modern architectural look of the capital city.",
+                                "The approved program includes 5,175 residential buildings, or more than 350,000 apartments with a total area of 16.4 million square meters, and affects lives of about 1 million people.",
+                                {
+                                    "type": "readmore",
+                                    "href": "https://fr.mos.ru/"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "image",
+                            "href": "/src/content/img/rennovation_today.svg"
+                        },
+                        {
+                            "type": "image",
+                            "href": "/src/content/img/rennovation_totals.svg"
+                        }
+                    ]
                 },
                 {
                     "name": "Transportation System Development",
-                    "content": []
+                    "content": [
+                        {
+                            "type": "subcategory",
+                            "name": "Moscow Transportation Complex Development Program",
+                            "content": []
+                        },
+                        {
+                            "type": "subcategory",
+                            "name": "Moscow Smart Transport System",
+                            "content": []
+                        },
+                        {
+                            "type": "subcategory",
+                            "name": "Moscow Electric Bus",
+                            "content": [
+                                {
+                                    "type": "readmore",
+                                    "href": "https://transport.mos.ru/transport/elektrobus"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "subcategory",
+                            "name": "River Public Transport",
+                            "content": [
+                                {
+                                    "type": "readmore",
+                                    "href": "https://transport.mos.ru/reka/transport"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "subcategory",
+                            "name": "Bicycles and scooters",
+                            "content": [
+                                "Bicycles:",
+                                "Velobike is a city service for renting bikes in Moscow. The goal of the project is to create an alternative to cars and public transport and offer city residents and tourists an affordable means of transport for short trips and multimodal movement using various means of public transport.",
+                                "In 2022, there were 765 bicycle rental stations in Moscow, more than 7,200 bicycles are available for rent, 895 of which are electric ones",
+                                {
+                                    "type": "readmore",
+                                    "href": "https://velobike.ru/?utm_referrer=https%3A%2F%2Fwww.google.com%2F"
+                                },
+                                "Scooters:",
+                                "The service for short-term rental of e-scooters in Moscow is represented by five companies: Whoosh, Urent, Yandex Go, Lite, EcoWay. To rent a scooter, users need to register in the operator\u2019s app or in the Moscow Transport app.",
+                                "Special \u201cslow zones\u201d were created to improve road safety in the city. These are zones in the busiest areas and parks, where the speed of e-scooters is automatically reduced to 5-15 km/h. In total, there are 189 slow zones in the city, 49 of them are located in residential areas.",
+                                {
+                                    "type": "readmore",
+                                    "href": "https://transport.mos.ru/carsharing"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "subcategory",
+                            "name": "Carsharing",
+                            "logo": "/src/content/img/moscow_carsharing.svg",
+                            "content": [
+                                "Carsharing (a short-term rental service with per-minute charges) services in Moscow are provided by Delimobil, Citydrive, BelkaCar, Yandex.Drive. To rent a car, users need to register in the mobile app of an operator. For registration, drivers need to attach photos of their passport and driving license, and then sign an agreement. The verification process may take a few days.",
+                                "When the rental period is over, the driver can leave the car within the perimeter of the Moscow Ring Road, in several designated areas outside of the Moscow Ring Road, and at airports. The user of the carsharing service does not pay for parking in paid parking areas.",
+                                "To increase safety of carsharing services, many operators have introduced evaluation of the driving style, which is used to build the driver\u2019s rating, and an more stringent identification system during registration and at the start of the rental period. The implementation of telematics, introduced fines and restriction of access for dangerous driving help reduce the number of accidents involving carsharing vehicles. Today, accidents with those vehicles occur less frequently than accidents involving private cars.",
+                                {
+                                    "type": "readmore",
+                                    "href": "https://www.mos.ru/city/projects/mln-derevyev/"
+                                }
+                            ]
+                        }
+                    ]
                 },
                 {
                     "name": "Municipal forestry",
-                    "content": []
+                    "content": [
+                        {
+                            "type": "subcategory",
+                            "name": "Million Trees campaign",
+                            "content": [
+                                "The Million Trees campaign is the city\u2019s most ambitious landscaping program, which began in 2013. The goal is to decorate yards of residential buildings and territories of municipal institutions with greenery.",
+                                "Muscovites vote on the Active Citizen project website. Then lists of courtyards with the highest number of votes are formed. Specialists go see the yards and approve the lists. Residents of the capital city select varieties of trees and shrubs to be planted. You can choose between fir tree, willow, oak, birch, maple, rowan tree, bird cherry, linden, apple tree, mulberry, ash tree, larch, lilac, mock-orange, hawthorn, barberry, spirea, rosehip, cranberry, dogwood, silverweeds, ninebark, snowberry.",
+                                "More than four million trees and shrubs have already been planted.",
+                                "The Million Trees campaign applies not only to the yards of residential buildings, but also to the grounds of schools, child daycare centers, clinics, hospitals, rehabilitation centers, orphanages and other social institutions in the city. In 2021, 2,284 trees and 44,136 shrubs were planted on the grounds of 200 social facilities."
+                            ]
+                        },
+                        {
+                            "type": "subcategory",
+                            "name": "Our Tree project",
+                            "content": [
+                                "Our Tree is an online service for participants of the citywide project of free tree planting in Moscow parks in honor of the birth of children. The project is focused on the preservation of family values and improvement of the environmental situation.",
+                                "Users pick a park on an interactive map, a place in it and a tree species, and city services plant a large plant (10-15 years old saplings several meters in height are used).",
+                                "Applications are submitted electronically at mos.ru. It takes about seven days to finalize the decision, which is submitted to the user\u2019s personal account on the portal. The service can be used by people whose children were born in 2019 or later, provided that at least one parent is registered in Moscow. Applications can be submitted within three years from the child\u2019s birthdate.",
+                                "The tree planting takes place in a special ceremony, in the applicant\u2019s presence. Ten days ahead of the event, the applicant receives notification with the exact date, time and future location of the family tree to be planted, and another reminder three days before the ceremony. The trees are planted by professionals using special equipment, but applicants can participate in the final work. e.g., leveling of the tree, making a hole and embedment of the plant.",
+                                {
+                                    "type": "readmore",
+                                    "href": "https://www.mos.ru/services/nashe-derevo/"
+                                }
+                            ]
+                        }
+                    ]
                 },
                 {
                     "name": "Citizens’ involvement in the city’s development",
-                    "content": []
+                    "content": [
+                        {
+                            "type": "subcategory",
+                            "name": "My Moscow app",
+                            "logo": "/src/content/img/my_moscow.svg",
+                            "content": [
+                                "My Moscow is the official mobile application of the portal of the Mayor and Government of Moscow, mos.ru. Users can use iOS or Android-based mobile devices (smartphones or tablets) to obtain the most popular services of the city. The app is available in AppStore, Google Play, RuStore and Huawei AppGallery.",
+                                "The application\u2019s services cover healthcare, utilities, charity, education and other sectors. In particular, residents can use the app to schedule an appointment with a doctor, submit water and electricity meter readings, pay utility bills, help charity organizations, check school schedules, attendance and grades of a child and find out city news.",
+                                "For example, the service for paying utility bills allows users to save time in comparison with the traditional approach, i.e. receiving bills by mail, filling it out manually and paying at a bank branch. Users receive notifications about new bills in their mobile app and can pay several bills at a time. Moreover, users have access to the entire history of their payments and can download, save or send their payment receipts using instant messengers or email.",
+                                "In December 2020, a voice assistant was launched in the app. It answers users\u2019 questions: in response to an oral inquiry the bot will display necessary information or open a window to get the service. The bot can find a school schedule, submit water meter readings, display utility bills or a planned hot water shutdown schedule, and answer informal questions.",
+                                {
+                                    "type": "list",
+                                    "content": [
+                                        "Launch date: 2019",
+                                        "Since the launch of the app, over 3.7 million people have installed it",
+                                        "Active audience of the app: 900,000 people per month"
+                                    ]
+                                },
+                                {
+                                    "type": "readmore",
+                                    "href": "https://www.mos.ru/mobile/"
+                                },
+                                {
+                                    "type": "awards",
+                                    "content": [
+                                        {
+                                            "year": "2020",
+                                            "awards": [
+                                                "The project got a silver prize at the WeGO 2020 Awards in the \u201cEfficient Government\u201d category",
+                                                "The project received the \u201cBeneficial Practice\u201d diploma of the review competition \u201cThe City We Want to Live In\u201d of the Assembly of Capitals and Large Cities of the CIS and EAEU",
+                                                "The application was shortlisted for The DADI Awards in the \u201cPublic Sector and Public Initiatives\u201d nomination"
+                                            ]
+                                        },
+                                        {
+                                            "year": "2021",
+                                            "awards": [
+                                                "The project won a prize of the Russian competition \u201cGolden App\u201d in the \u201cCoronavirus\u201d category (projects, sites that were useful during the pandemic)"
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "type": "subcategory",
+                            "name": "Active Citizen service",
+                            "logo": "/src/content/img/active_citizen.png",
+                            "content": [
+                                "Active Citizen is a platform to organize polls on urban development issues and allow residents to evaluate the implementation of the decisions they have made. With the help of this tool, residents can express their opinion and influence the improvement of territories, the work of public organizations (outpatient clinics, libraries, multifunctional centers), the format of festivals, and also learn about new things introduced in the city.",
+                                "Since its launch, the project has significantly expanded its functionality. Currently, Active Citizen combines several services, including public discussions, Electronic House and the Million Prizes campaign. The following sections are available on the website and in the app of the project: Polls, Results, Endorsement Store, City News, Project in Faces. The decisions that were implemented on the back of votes are presented on an online map.",
+                                "Neural network algorithms are used to classify requests to technical support and to organize search for a suitable answer from the knowledge base, and also for behavioral analysis of users in order to identify users violating good faith principles and prevent voting frauds.",
+                                "Among all IT projects of the Government of Moscow, Active Citizen was the first to switch to blockchain in 2017. The technology allows anyone to track voting results in real time. Blockchain also helps ascertain the uniqueness of voters.",
+                                {
+                                    "type": "list",
+                                    "content": [
+                                        "Launch date: May 2014",
+                                        "More than 6 million users have joined the Active Citizen project",
+                                        "An average of 200,000 people take part in citywide polls",
+                                        "More than 5,400 thousand polls were conducted and over 3,600 decisions were implemented over the 8 years of the project work",
+                                        "More than 191 million opinions of citizens were collected during online voting"
+                                    ]
+                                },
+                                {
+                                    "type": "readmore",
+                                    "href": "https://ag.mos.ru/home"
+                                },
+                                {
+                                    "type": "awards",
+                                    "content": [
+                                        {
+                                            "year": "2020",
+                                            "awards": [
+                                                "The Active Citizen project was selected by the organizers of the Smart City Week in the U.S. as an example of best practices in the field of involving residents in city governance",
+                                                "The project became the finalist of the World Smart Sustainable Cities Organization\u2019s WeGO Award",
+                                                "The Active Citizen project received the \u201cBeneficial Practice\u201d diploma of the review-competition of the Assembly of Capitals and Major Cities of the EAEU \u201cThe City We Want to Live In\u201d",
+                                                "The project ranked third in the Russian nationwide competition of regional and municipal informatization projects PROFIT.2020, in the \u201cInteractive Communication with Citizens\u201d nomination"
+                                            ]
+                                        },
+                                        {
+                                            "year": "2022",
+                                            "awards": [
+                                                "The Active Citizen project received a special prize in the \u201cBest Application Usability/UX\u201d nomination of the Golden Application 2021 award"
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "type": "subcategory",
+                            "name": "Electronic House service ",
+                            "logo": "/src/content/img/electronic_house.png",
+                            "content": [
+                                "Electronic House is an online platform for the communication of residents and management companies in apartment houses. It is available in the Electronic House Moscow app that can be downloaded from App Store or Google Play.",
+                                "With the help of the platform, residents can, in particular:",
+                                {
+                                    "type": "list",
+                                    "content": [
+                                        "conduct polls and hold general meetings of owners online;",
+                                        "submit applications and call repair specialist to fix problems in the apartment, house and yard (for houses connected to the Unified Dispatch Center);",
+                                        "submit meter readings and pay utility bills (for houses connected to the Unified Information and Payment Center);",
+                                        "chat with neighbors;",
+                                        "use a common electronic bulletin board;",
+                                        "read the news about the house and the region."
+                                    ]
+                                },
+                                "On the map of connected houses users can find their address, learn about ongoing surveys and general meetings of owners, and, having completed authorization, view a list of registered neighbors.",
+                                {
+                                    "type": "readmore",
+                                    "href": "https://ed.mos.ru/"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "subcategory",
+                            "name": "Our City portal",
+                            "logo": "/src/content/img/envelope.svg",
+                            "content": [
+                                "Our City is a portal helping residents report problems related to housing and communal services and landscaping, e.g., uncleared snow, overflowing garbage bins, potholes on the roads, etc. The portal\u2019s launch in 2011 helped the city authorities get signals about arising issues and address them faster.",
+                                "Moscow Residents can report more than 200 types of issues across various sections, such as My Yard, My House, My Road, My Park, Public Institutions, Public Transport, Commerce and Advertising, Urban Territory.",
+                                "The editorial staff of the portal processes messages, accepts the request or rejects it due to external reasons. With the help of a built-in classifier of problematic issues, an accepted application is automatically sent to the authority or organization responsible for eliminating a specific problem. The authorities prepare the answer within 8 working days, and after moderation it is sent to the relevant user.",
+                                "Residents can control elimination of the issue themselves. If the problem is not properly resolved, the resident who reported it can claim that the problem has not been fixed. The portal preserves anonymity of residents by using pseudonyms, so that all requests can be considered in an unbiased manner.",
+                                "In addition to sending messages, the Our City portal can be used to assess the quality of services in the multifunctional center, medical appointments and other city services, receive information about the schedule of major repairs in the house and contractors who perform them, scheduled shutdowns of hot water, etc.",
+                                {
+                                    "type": "list",
+                                    "content": [
+                                        "Launch date: 2011",
+                                        "More than 1.8 million users have registered on the portal since 2011",
+                                        "More than 6 million issues have been resolved",
+                                        "Requests on more than 200 topics are accepted via the service",
+                                        "More than 3,000 messages from residents are received every day",
+                                        "50% of problems are solved within one or two days"
+                                    ]
+                                },
+                                {
+                                    "type": "readmore",
+                                    "href": "https://gorod.mos.ru/"
+                                },
+                                {
+                                    "type": "awards",
+                                    "content": [
+                                        {
+                                            "year": "2015",
+                                            "awards": [
+                                                "The project became a prize winner of the World Smart City Awards in the \u201cCity as a Service Platform\u201d nomination"
+                                            ]
+                                        },
+                                        {
+                                            "year": "2016",
+                                            "awards": [
+                                                "The portal was the winner of the Guangzhou International Award for Urban Innovation in the \u201cPublic Participation in Key Decision Making\u201d nomination"
+                                            ]
+                                        },
+                                        {
+                                            "year": "2020",
+                                            "awards": [
+                                                "The project was awarded a \u2018Beneficial Practice\u2019 diploma of the review-competition of the Assembly of Capitals and Major Cities of the EAEU \u201cThe City We Want to Live In\u201d"
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "type": "subcategory",
+                            "name": "My District project",
+                            "logo": "/src/content/img/my_area.png",
+                            "content": [
+                                "The goal of the My Neighborhood project is to create comfortable living conditions and ensure systemic development of infrastructure in every district of Moscow. The project brings together within a single system all city projects related to gentrification, high-quality education, healthcare, work, and leisure for Muscovites. The My District program provides residents with access to information on the development of their district, allows them to take part in the improvement of urban infrastructure and beautification of urban territories. The project implementation helps create a single standard of living and urban environment throughout the city, so that every district has a high-level healthcare system, good schools, useful libraries, interesting and popular sports groups and clubs in recreation centers, as well as parks, squares, and workout grounds. The project is underway in 12 administrative districts of Moscow, and includes 146 districts and inhabited localities of the city.",
+                                {
+                                    "type": "readmore",
+                                    "href": "https://www.mos.ru/moi-raion/"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "subcategory",
+                            "name": "Public Discussions service",
+                            "logo": "/src/content/img/public_discussions.svg",
+                            "content": [
+                                "Public Discussions is a service where residents can learn about city planning projects, ask questions and receive advice from project developers, come up with suggestions and comments. Public discussions in electronic form are conducted on the Active Citizen project website by Moscow\u2019s Urban Planning and Land Commission and represent a legally regulated alternative to public hearings. In the online format, the same issues are considered that were previously deliberated only offline. Generally, they concern construction and changes in the layout of urban spaces.",
+                                "Thanks to the Public Discussions service, residents can familiarize themselves with urban planning projects and leave their suggestions and comments online. Prior to the launch of the service, residents had to come in person to the place of public hearings in order to view urban planning designs and make their suggestions. The electronic format made public hearings accessible to everyone, including people with mobility issues who found it difficult to attend events in person. Project materials are accessible both from a personal computer or a mobile device. Participants in public discussions can provide their feedback, ask questions and receive answers from the organizer of a public discussion. Access to discussions is not limited to working hours or weekends. This approach to the organization of the procedure ensures maximum coverage of all interested citizens.",
+                                {
+                                    "type": "readmore",
+                                    "href": "https://ag.mos.ru/debates/about"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "subcategory",
+                            "name": "City of Ideas platform",
+                            "content": [
+                                "The City of Ideas platform is a tool of two-way communication between citizens and city authorities, which helps obtain feedback, including suggestions on key development issues of the megalopolis.",
+                                "Users who have an account on mos.ru can offer ideas in the areas of culture, landscaping, transport, parks, commuting about the city, bicycles and scooters, railway infrastructure, social sphere and electronic projects. Some projects were related to the development of Moscow\u2019s healthcare system, education, and the city\u2019s environmental strategy. Electronic projects became the most popular section.",
+                                "All ideas and proposals from Moscow residents that have been accepted after moderation are selected by industry experts and put up for a vote by participants of the crowdsourcing project. The most popular ideas are then implemented by the city.",
+                                "Since 2020, residents of Moscow have been using the option of confirming the implementation of the proposed ideas. Residents can upload photos of the ideas implemented in the city.",
+                                {
+                                    "type": "list",
+                                    "content": [
+                                        "Launch date: 2014",
+                                        "More than 360,000 participants have registered on the platform",
+                                        "About 40 projects have been implemented, and more than 113,000 ideas have been proposed. The implementation of 4,700 of these ideas has already started, and more than 3,000 have already been implemented",
+                                        "In 2021 alone, more than 63,000 users registered on the platform and about 500 ideas were implemented"
+                                    ]
+                                },
+                                {
+                                    "type": "readmore",
+                                    "href": "https://crowd.mos.ru/"
+                                },
+                                {
+                                    "type": "awards",
+                                    "content": [
+                                        {
+                                            "year": "2020",
+                                            "awards": [
+                                                "The project was shortlisted for The DADI Awards in the \u201cBest Tech Platform\u201d nomination"
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
                 },
                 {
                     "type": "tile_picture",
@@ -197,15 +692,122 @@
                 },
                 {
                     "name": "mos.ru",
-                    "content": []
+                    "logo": "/src/content/img/mos_ru.svg",
+                    "content": [
+                        "The official website of the Mayor and Government of Moscow, mos.ru, is a digital platform that features the city\u2019s services, current news and announcements of events, detailed instructions for getting public services, information about the work and composition of the city\u2019s authorities, and options for sending an official appeal or request to them. The website is available from a computer, smartphone or a tablet.",
+                        "With the help of the portal, users can receive services 24/7 online without visiting various departments offline, collecting paper certificates and documents. For example, using mos.ru, residents can pay utility bills and car fines, schedule an appointment with a doctor, find out the child\u2019s grades and what the child ate for lunch, apply for subsidies and other social benefits.",
+                        "The service provision status is displayed in the user\u2019s personal account. Users can save information about their documents, cars, address and family members in their personal account in order not to enter this information once again to get the services on the portal.",
+                        "The portal is also a platform for promoting government initiatives to implement UN goals: reducing water consumption, sorting waste, helping disadvantaged people, and others. The ability to obtain services online makes the city more inclusive.",
+                        {
+                            "type": "list",
+                            "content": [
+                                "Year of launch: 2015",
+                                "Residents and businesses can get more than 380 services online",
+                                "More than 50 million users visit mos.ru every month",
+                                "15 million people have registered personal accounts"
+                            ]
+                        },
+                        {
+                            "type": "readmore",
+                            "href": "https://www.mos.ru/en/"
+                        },
+                        {
+                            "type": "awards",
+                            "content": [
+                                {
+                                    "year": "2016",
+                                    "awards": [
+                                        "The portal became the best project in the \u201cState and Society\u201d category of the Runet Prize"
+                                    ]
+                                },
+                                {
+                                    "year": "2018",
+                                    "awards": [
+                                        "Moscow ranked first in the UN\u2019s electronic services provision index"
+                                    ]
+                                },
+                                {
+                                    "year": "2019",
+                                    "awards": [
+                                        "The portal was the winner in the \u201cState and Society\u201d category of the Runet Prize"
+                                    ]
+                                },
+                                {
+                                    "year": "2020",
+                                    "awards": [
+                                        "Moscow\u2019s complex of digital solutions for combating the pandemic received the Runet Award in the \u201cTechnology vs Coronavirus\u201d category (the award entry included the mos.ru portal)",
+                                        "The project was awarded the \u201cBeneficial Practice\u201d diploma of the review-competition of the Assembly of Capitals and Major Cities of the EAEU \u201cThe City We Want to Live In\u201d",
+                                        "The portal was shortlisted for The DADI Awards in the \u201cPublic Sector and Public Initiatives\u201d category"
+                                    ]
+                                },
+                                {
+                                    "year": "2021",
+                                    "awards": [
+                                        "Mos.ru won a special prize at the Golden Site competition in the \u201cGovernment Project Website\u201d nomination",
+                                        "The project was shortlisted for the Smart Cities Council Readiness Challenge"
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
                 },
                 {
                     "name": "Ecological education",
-                    "content": []
+                    "content": [
+                        "Environmental education in the interests of sustainable development in the city of Moscow is implemented in the following forms: additional general development programs of natural science orientation, including the use of distance learning (the project \"Eco-school online\", \"Ecolectory\", etc.); extracurricular activities; mass environmental events, promotions, contests, festivals for students; environmental expeditions, profile shifts during the vacation period.",
+                        "The list of city events of the Department of Education and Science of the City of Moscow annually includes competitive events on environmental education (within the framework of the Moscow City Ecological Festival \"Nature of Russia\"). The main activities within which the problems of sustainable development are revealed are:",
+                        {
+                            "type": "list",
+                            "content": [
+                                "Olympiad \"Nature of Russia\" (held in the format of an individual championship on knowledge of natural and biological diversity, environmental problems and peculiarities of regions, environmental protection);",
+                                "Moscow Ecological Forum of Students (held in the format of competitive readings on the conducted research and completed socially significant projects in the field of biological diversity and environmental issues of the country);",
+                                "City quest in natural sciences (held in the format of a team championship of students of educational organizations, which is a movement along the route and the performance of various tasks on the topic \"interaction of nature and society in Moscow and Russia\");"
+                            ]
+                        },
+                        "\"Green Olympiad\" of young ecologists and naturalists (held in the format of a team championship in a natural area for practical knowledge of the biological diversity of the Moscow region, methods of field work of biologists and ecologists).",
+                        "The Olympiad events are held within the framework of interdepartmental cooperation with the institutions of the Department of Nature Management and Environmental Protection of the City of Moscow. At least 25 thousand students take part in the events of the Olympiad.",
+                        "More than 1,600 schoolchildren took part in educational excursion programs in the State Educational Educational Institution of the ICT Center on the basis of the Museum of Nature, the Museum of Natural History, the greenhouse and the mini zoo.",
+                        "To implement the goal \"Partnership for Sustainable Development\" (Goal No. 17), educational organizations cooperate with specially protected natural areas of the city to conduct field ecological excursions and workshops. At least 700 people become their participants annually.",
+                        "The project \"Green Schools of Moscow\" is actively developing in the education system, aimed at creating an environmentally oriented educational environment and developing the ecological culture of schoolchildren. Within five years, about 300 educational organizations have been included in the project.",
+                        "Since 2017, the project \"Eco saturdays\" has been implemented as part of the Moscow Schoolboy Saturdays. The project provides ample opportunities for schoolchildren and students of the city to get acquainted with the basic environmental principles, approaches and strategies of modernity."
+                    ]
                 },
                 {
                     "name": "Environmental monitoring",
-                    "content": []
+                    "content": [
+                        "The MosEcoMonitoring portal is an open official source of information on the air condition for both professionals (environmental experts, NGOs and rating services) and the general public. The data on the portal is updated every hour and is collected from 56 automatic air pollution control stations located in Moscow. The resource collects information on 16 analyzed pollutants. Short reports and data visualized in the form of an interactive map are also available on the portal.",
+                        "In addition, the website publishes (in real time) meteorological data from the Ostankino TV tower (wind speed, atmospheric pressure, humidity, visibility range, air temperature) and information about weather conditions that prevent the diffusion of pollutants. This information is collected from special devices that measure atmospheric radiation and determine the air temperature at different heights. The portal also has a section providing information about the condition of green spaces in Moscow.",
+                        "Users can participate in a survey and share their opinion about air quality in Moscow.",
+                        {
+                            "type": "list",
+                            "content": [
+                                "Launch date: 2018",
+                                "Average number of visits to the mosecom.mos.ru website is 8,000 per month",
+                                "The number of visits grows every year: in 2018, the number of visits exceeded 135,000, in 2019, it went over 151,000, in 2020, it was more than 198,000, in 2021, over 225,000, in the first half of 2022 the number of visits to the site surpassed 101,000"
+                            ]
+                        },
+                        {
+                            "type": "readmore",
+                            "href": "https://mosecom.mos.ru/"
+                        },
+                        {
+                            "type": "awards",
+                            "content": [
+                                {
+                                    "year": "2020",
+                                    "awards": [
+                                        "The project was shortlisted for The DADI Awards in the \u201cNot-for-Profit/Charity\u201d nomination"
+                                    ]
+                                },
+                                {
+                                    "year": "2021",
+                                    "awards": [
+                                        "The project was shortlisted for the Smart Cities Council Readiness Challenge"
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
                 }
             ]
         },
@@ -220,11 +822,236 @@
                 },
                 {
                     "name": "E-platforms to engage city dwellers in Moscow development",
-                    "content": []
+                    "content": [
+                        {
+                            "type": "subcategory",
+                            "name": "My Moscow app",
+                            "logo": "/src/content/img/my_moscow.svg",
+                            "content": [
+                                "My Moscow is the official mobile application of the portal of the Mayor and Government of Moscow, mos.ru. Users can use iOS or Android-based mobile devices (smartphones or tablets) to obtain the most popular services of the city. The app is available in AppStore, Google Play, RuStore and Huawei AppGallery.",
+                                "The application\u2019s services cover healthcare, utilities, charity, education and other sectors. In particular, residents can use the app to schedule an appointment with a doctor, submit water and electricity meter readings, pay utility bills, help charity organizations, check school schedules, attendance and grades of a child and find out city news.",
+                                "For example, the service for paying utility bills allows users to save time in comparison with the traditional approach, i.e. receiving bills by mail, filling it out manually and paying at a bank branch. Users receive notifications about new bills in their mobile app and can pay several bills at a time. Moreover, users have access to the entire history of their payments and can download, save or send their payment receipts using instant messengers or email.",
+                                "In December 2020, a voice assistant was launched in the app. It answers users\u2019 questions: in response to an oral inquiry the bot will display necessary information or open a window to get the service. The bot can find a school schedule, submit water meter readings, display utility bills or a planned hot water shutdown schedule, and answer informal questions.",
+                                {
+                                    "type": "list",
+                                    "content": [
+                                        "Launch date: 2019",
+                                        "Since the launch of the app, over 3.7 million people have installed it",
+                                        "Active audience of the app: 900,000 people per month"
+                                    ]
+                                },
+                                {
+                                    "type": "readmore",
+                                    "href": "https://www.mos.ru/mobile/"
+                                },
+                                {
+                                    "type": "awards",
+                                    "content": [
+                                        {
+                                            "year": "2020",
+                                            "awards": [
+                                                "The project got a silver prize at the WeGO 2020 Awards in the \u201cEfficient Government\u201d category",
+                                                "The project received the \u201cBeneficial Practice\u201d diploma of the review competition \u201cThe City We Want to Live In\u201d of the Assembly of Capitals and Large Cities of the CIS and EAEU",
+                                                "The application was shortlisted for The DADI Awards in the \u201cPublic Sector and Public Initiatives\u201d nomination"
+                                            ]
+                                        },
+                                        {
+                                            "year": "2021",
+                                            "awards": [
+                                                "The project won a prize of the Russian competition \u201cGolden App\u201d in the \u201cCoronavirus\u201d category (projects, sites that were useful during the pandemic)"
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "type": "subcategory",
+                            "name": "Active Citizen service",
+                            "logo": "/src/content/img/active_citizen.png",
+                            "content": [
+                                "Active Citizen is a platform to organize polls on urban development issues and allow residents to evaluate the implementation of the decisions they have made. With the help of this tool, residents can express their opinion and influence the improvement of territories, the work of public organizations (outpatient clinics, libraries, multifunctional centers), the format of festivals, and also learn about new things introduced in the city.",
+                                "Since its launch, the project has significantly expanded its functionality. Currently, Active Citizen combines several services, including public discussions, Electronic House and the Million Prizes campaign. The following sections are available on the website and in the app of the project: Polls, Results, Endorsement Store, City News, Project in Faces. The decisions that were implemented on the back of votes are presented on an online map.",
+                                "Neural network algorithms are used to classify requests to technical support and to organize search for a suitable answer from the knowledge base, and also for behavioral analysis of users in order to identify users violating good faith principles and prevent voting frauds.",
+                                "Among all IT projects of the Government of Moscow, Active Citizen was the first to switch to blockchain in 2017. The technology allows anyone to track voting results in real time. Blockchain also helps ascertain the uniqueness of voters.",
+                                {
+                                    "type": "list",
+                                    "content": [
+                                        "Launch date: May 2014",
+                                        "More than 6 million users have joined the Active Citizen project",
+                                        "An average of 200,000 people take part in citywide polls",
+                                        "More than 5,400 thousand polls were conducted and over 3,600 decisions were implemented over the 8 years of the project work",
+                                        "More than 191 million opinions of citizens were collected during online voting"
+                                    ]
+                                },
+                                {
+                                    "type": "readmore",
+                                    "href": "https://ag.mos.ru/home"
+                                },
+                                {
+                                    "type": "awards",
+                                    "content": [
+                                        {
+                                            "year": "2020",
+                                            "awards": [
+                                                "The Active Citizen project was selected by the organizers of the Smart City Week in the U.S. as an example of best practices in the field of involving residents in city governance",
+                                                "The project became the finalist of the World Smart Sustainable Cities Organization\u2019s WeGO Award",
+                                                "The Active Citizen project received the \u201cBeneficial Practice\u201d diploma of the review-competition of the Assembly of Capitals and Major Cities of the EAEU \u201cThe City We Want to Live In\u201d",
+                                                "The project ranked third in the Russian nationwide competition of regional and municipal informatization projects PROFIT.2020, in the \u201cInteractive Communication with Citizens\u201d nomination"
+                                            ]
+                                        },
+                                        {
+                                            "year": "2022",
+                                            "awards": [
+                                                "The Active Citizen project received a special prize in the \u201cBest Application Usability/UX\u201d nomination of the Golden Application 2021 award"
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "type": "subcategory",
+                            "name": "Electronic House service ",
+                            "logo": "/src/content/img/electronic_house.png",
+                            "content": [
+                                "Electronic House is an online platform for the communication of residents and management companies in apartment houses. It is available in the Electronic House Moscow app that can be downloaded from App Store or Google Play.",
+                                "With the help of the platform, residents can, in particular:",
+                                {
+                                    "type": "list",
+                                    "content": [
+                                        "conduct polls and hold general meetings of owners online;",
+                                        "submit applications and call repair specialist to fix problems in the apartment, house and yard (for houses connected to the Unified Dispatch Center);",
+                                        "submit meter readings and pay utility bills (for houses connected to the Unified Information and Payment Center);",
+                                        "chat with neighbors;",
+                                        "use a common electronic bulletin board;",
+                                        "read the news about the house and the region."
+                                    ]
+                                },
+                                "On the map of connected houses users can find their address, learn about ongoing surveys and general meetings of owners, and, having completed authorization, view a list of registered neighbors.",
+                                {
+                                    "type": "readmore",
+                                    "href": "https://ed.mos.ru/"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "subcategory",
+                            "name": "Our City portal",
+                            "logo": "/src/content/img/envelope.svg",
+                            "content": [
+                                "Our City is a portal helping residents report problems related to housing and communal services and landscaping, e.g., uncleared snow, overflowing garbage bins, potholes on the roads, etc. The portal\u2019s launch in 2011 helped the city authorities get signals about arising issues and address them faster.",
+                                "Moscow Residents can report more than 200 types of issues across various sections, such as My Yard, My House, My Road, My Park, Public Institutions, Public Transport, Commerce and Advertising, Urban Territory.",
+                                "The editorial staff of the portal processes messages, accepts the request or rejects it due to external reasons. With the help of a built-in classifier of problematic issues, an accepted application is automatically sent to the authority or organization responsible for eliminating a specific problem. The authorities prepare the answer within 8 working days, and after moderation it is sent to the relevant user.",
+                                "Residents can control elimination of the issue themselves. If the problem is not properly resolved, the resident who reported it can claim that the problem has not been fixed. The portal preserves anonymity of residents by using pseudonyms, so that all requests can be considered in an unbiased manner.",
+                                "In addition to sending messages, the Our City portal can be used to assess the quality of services in the multifunctional center, medical appointments and other city services, receive information about the schedule of major repairs in the house and contractors who perform them, scheduled shutdowns of hot water, etc.",
+                                {
+                                    "type": "list",
+                                    "content": [
+                                        "Launch date: 2011",
+                                        "More than 1.8 million users have registered on the portal since 2011",
+                                        "More than 6 million issues have been resolved",
+                                        "Requests on more than 200 topics are accepted via the service",
+                                        "More than 3,000 messages from residents are received every day",
+                                        "50% of problems are solved within one or two days"
+                                    ]
+                                },
+                                {
+                                    "type": "readmore",
+                                    "href": "https://gorod.mos.ru/"
+                                },
+                                {
+                                    "type": "awards",
+                                    "content": [
+                                        {
+                                            "year": "2015",
+                                            "awards": [
+                                                "The project became a prize winner of the World Smart City Awards in the \u201cCity as a Service Platform\u201d nomination"
+                                            ]
+                                        },
+                                        {
+                                            "year": "2016",
+                                            "awards": [
+                                                "The portal was the winner of the Guangzhou International Award for Urban Innovation in the \u201cPublic Participation in Key Decision Making\u201d nomination"
+                                            ]
+                                        },
+                                        {
+                                            "year": "2020",
+                                            "awards": [
+                                                "The project was awarded a \u2018Beneficial Practice\u2019 diploma of the review-competition of the Assembly of Capitals and Major Cities of the EAEU \u201cThe City We Want to Live In\u201d"
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "type": "subcategory",
+                            "name": "My District project",
+                            "logo": "/src/content/img/my_area.png",
+                            "content": [
+                                "The goal of the My Neighborhood project is to create comfortable living conditions and ensure systemic development of infrastructure in every district of Moscow. The project brings together within a single system all city projects related to gentrification, high-quality education, healthcare, work, and leisure for Muscovites. The My District program provides residents with access to information on the development of their district, allows them to take part in the improvement of urban infrastructure and beautification of urban territories. The project implementation helps create a single standard of living and urban environment throughout the city, so that every district has a high-level healthcare system, good schools, useful libraries, interesting and popular sports groups and clubs in recreation centers, as well as parks, squares, and workout grounds. The project is underway in 12 administrative districts of Moscow, and includes 146 districts and inhabited localities of the city.",
+                                {
+                                    "type": "readmore",
+                                    "href": "https://www.mos.ru/moi-raion/"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "subcategory",
+                            "name": "Public Discussions service",
+                            "logo": "/src/content/img/public_discussions.svg",
+                            "content": [
+                                "Public Discussions is a service where residents can learn about city planning projects, ask questions and receive advice from project developers, come up with suggestions and comments. Public discussions in electronic form are conducted on the Active Citizen project website by Moscow\u2019s Urban Planning and Land Commission and represent a legally regulated alternative to public hearings. In the online format, the same issues are considered that were previously deliberated only offline. Generally, they concern construction and changes in the layout of urban spaces.",
+                                "Thanks to the Public Discussions service, residents can familiarize themselves with urban planning projects and leave their suggestions and comments online. Prior to the launch of the service, residents had to come in person to the place of public hearings in order to view urban planning designs and make their suggestions. The electronic format made public hearings accessible to everyone, including people with mobility issues who found it difficult to attend events in person. Project materials are accessible both from a personal computer or a mobile device. Participants in public discussions can provide their feedback, ask questions and receive answers from the organizer of a public discussion. Access to discussions is not limited to working hours or weekends. This approach to the organization of the procedure ensures maximum coverage of all interested citizens.",
+                                {
+                                    "type": "readmore",
+                                    "href": "https://ag.mos.ru/debates/about"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "subcategory",
+                            "name": "City of Ideas platform",
+                            "content": [
+                                "The City of Ideas platform is a tool of two-way communication between citizens and city authorities, which helps obtain feedback, including suggestions on key development issues of the megalopolis.",
+                                "Users who have an account on mos.ru can offer ideas in the areas of culture, landscaping, transport, parks, commuting about the city, bicycles and scooters, railway infrastructure, social sphere and electronic projects. Some projects were related to the development of Moscow\u2019s healthcare system, education, and the city\u2019s environmental strategy. Electronic projects became the most popular section.",
+                                "All ideas and proposals from Moscow residents that have been accepted after moderation are selected by industry experts and put up for a vote by participants of the crowdsourcing project. The most popular ideas are then implemented by the city.",
+                                "Since 2020, residents of Moscow have been using the option of confirming the implementation of the proposed ideas. Residents can upload photos of the ideas implemented in the city.",
+                                {
+                                    "type": "list",
+                                    "content": [
+                                        "Launch date: 2014",
+                                        "More than 360,000 participants have registered on the platform",
+                                        "About 40 projects have been implemented, and more than 113,000 ideas have been proposed. The implementation of 4,700 of these ideas has already started, and more than 3,000 have already been implemented",
+                                        "In 2021 alone, more than 63,000 users registered on the platform and about 500 ideas were implemented"
+                                    ]
+                                },
+                                {
+                                    "type": "readmore",
+                                    "href": "https://crowd.mos.ru/"
+                                },
+                                {
+                                    "type": "awards",
+                                    "content": [
+                                        {
+                                            "year": "2020",
+                                            "awards": [
+                                                "The project was shortlisted for The DADI Awards in the \u201cBest Tech Platform\u201d nomination"
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
                 },
                 {
                     "name": "City of Discoveries project",
-                    "content": []
+                    "content": [
+                        "City of Discoveries, an innovative educational and tourist project, is compliant with the generally recognized concept of education in the interests of sustainable development as a product of extended education for schoolchildren and an effective tool for career guidance. The project is aimed at raising awareness and fostering competences of schoolchildren and youth from Russian provinces. Enrollees study the city in an interactive format. The project is unique in that it changes the role model of those who cover tourist routes: from simple observers they transform into researchers with proactive behavior. The project promotes students\u2019 decision-making skills, enabling them to make informed decisions for the sake of preservation of the environment, economic vitality of society in the interests of the present and future generations. More than 2,500 schoolchildren from 45 regions of Russia, Israel, China and other countries took part in the project's online and offline interactive educational and tourist program. The City of Discoveries project was evaluated by experts of the Russian Academy of Education and praised by them as an innovative program of extended education for children.",
+                        "Educational and tourist routes of the project include visits to high-tech enterprises, innovative start-ups, and research laboratories. The project maintains a constant interest in learning and relevant communities. Participants have a unique opportunity to present and implement their own business startup ideas, aimed at creating a favorable urban environment, implementation of innovations in major sectors of the economy."
+                    ]
                 },
                 {
                     "type": "tile_picture",
@@ -232,15 +1059,67 @@
                 },
                 {
                     "name": "Citywide Wi-Fi network",
-                    "content": []
+                    "logo": "/src/content/img/moscow_wifi.svg",
+                    "content": [
+                        "The Moscow City Wi-Fi network (Moscow_WiFi_Free) has more than 21,500 access points and allows residents to connect to Wi-Fi for free on central streets, in some parks, cultural and sports facilities and in university dormitories.",
+                        "The City Wi-Fi network currently includes:",
+                        {
+                            "type": "list",
+                            "content": [
+                                "more than 3,600 access points on the streets inside the Garden Ring Road and inside the Third Transport Ring;",
+                                "1,000+ access points in 56 city parks;",
+                                "more than 14,900 access points in 177 university dormitories;",
+                                "over 1,700 access points in 312 cultural and sports facilities;",
+                                "92 access points at 11 transport hubs and bus stations."
+                            ]
+                        },
+                        "All access points of the City Wi-Fi are combined into a seamless network: users do not have to reconnect to Wi-Fi every time when they move from one access point to another. It is enough to get authorized once and then undergo mandatory identification by phone number or using Mos.ID (an account on the mos.ru portal) once every three months (according to legal requirements).",
+                        {
+                            "type": "readmore",
+                            "href": "https://russpass.ru/"
+                        }
+                    ]
                 },
                 {
                     "name": "Moscow Urbanistic Forum",
-                    "content": []
+                    "content": [
+                        "Moscow Urbanistic Forum (MUF) is an annual international conference in the area of urban policy, architecture, strategic urban development. It was first held in 2011.",
+                        "The MUF is an important platform and source of expertise on sustainable urban development. In 2014, a publishing program was launched\u2014to release studies for the forum and a periodical, Urban Agenda. In 2019, a MUF-affiliated thinktank was launched to produce its own research on urban planning, architecture, economics, and strategic urban planning.",
+                        {
+                            "type": "image",
+                            "href": "/src/content/img/how_it_was_in_2022.svg"
+                        },
+                        {
+                            "type": "readmore",
+                            "href": "https://mosurbanforum.com/"
+                        }
+                    ]
                 },
                 {
                     "name": "Moscow Medical Cluster",
-                    "content": []
+                    "logo": "/src/content/img/moscow_international_medical_cluster.png",
+                    "content": [
+                        "The Moscow International Medical Cluster (MMC) is the largest medical infrastructure project in Russia aimed at developing the national healthcare ecosystem. The cluster, which will include foreign clinics, research centers, and medical universities, opened in the fall of 2018 on the territory of the Skolkovo Innovation Center. Thanks to the cluster\u2019s special legal status, its residents will be able to provide treatment and therapy to Russians according to international standards, using state-of-the-art technologies and equipment.",
+                        "Technology and knowledge transfer is another mission of the cluster. The work of its residents will help Russian medical practitioners get acquainted with the best achievements of healthcare and subsequently use the new knowledge for the benefit of Russia.",
+                        "Cluster development goals:",
+                        {
+                            "type": "list",
+                            "content": [
+                                "Opportunity to be treated in world-famous clinics without leaving Russia",
+                                "A quantum leap in the qualifications of Russian physicians through educational programs and networking with foreign colleagues",
+                                "A base for international R&D and testing of new drugs, technologies and equipment."
+                            ]
+                        },
+                        "Hadassah Clinic, an Israel-based medical facility, is already operating on the territory of the cluster, with a fully functioning diagnostic center and a therapeutic building. The clinic has successfully implemented a multidisciplinary approach, and patients can receive the full range of medical care they need. A third building of the clinic, the Chronic Disease Center, is under construction. Its specialists will focus on palliative care and long-term care for elderly citizens. In addition, there is a simulation center in the cluster where Moscow-based doctors and nurses can practice their practical skills using modern robot simulators.",
+                        "In 2023, a medical mall with several foreign clinics working in different specialties is scheduled to be opened. The specialties include orthopedics, pediatrics, women\u2019s health, oncology, etc. In a decade years, more than ten leading clinics from OECD countries are expected to have their offices or outposts in Skolkovo.",
+                        "The location of the medical cluster promotes partnership with the innovation center, which already has an information, a physical and a biomedical clusters. The MMC cooperates with Skolkovo residents in innovative projects, creating a comfortable environment for R&D. In particular, one of the main innovative programs of the educational center of the cluster includes advanced training for doctors on 48 simulators designed by Skolkovo residents. Above all, these are instruments for minimally invasive surgery on all parts of the body and for precise diagnostics, such as endoscopes.",
+                        "The International Medical Cluster creates a natural environment favorable to human senses: sight, hearing, smell. The first phase of improvement opened in August 2021. It includes the Forest and Stream park, a solitary corner for communing with nature, and the Oval Square space, a place for socialization, for meetings of patients and their relatives, as well as active events.",
+                        "The Moscow International Cluster actively develops cooperation with foreign partners. For instance, the MIC Foundation signed a cooperation agreement with the Turkish medical cluster OSTIM. Its mission is to foster Russian-Turkish relations in the field of construction, education, medicine and science. Plans include networking, experience and technology sharing, development of joint educational programs.",
+                        {
+                            "type": "readmore",
+                            "href": "https://www.mimc.global/en/"
+                        }
+                    ]
                 },
                 {
                     "type": "tile_picture",
@@ -248,7 +1127,32 @@
                 },
                 {
                     "name": "RussPass Tourist Service",
-                    "content": []
+                    "logo": "/src/content/img/russ_pass.png",
+                    "content": [
+                        "RussPass is an online service for planning travel in Russia. It allows users to book a hotel room, buy plane, train or bus tickets, and pay for museum admission. The service offers tours, excursions, and travel itineraries around Russian cities and towns. Users can pick a ready-made program or create a customized travel plan that includes selected locations. In total, RussPass offers 27 services.",
+                        "RussPass has travel operators, hotels, tour guides, restaurants, museums and other organizations among its partners. They can promote their products and attract new customers by placing their offers on the platform.",
+                        "Currently, RussPass supports four languages: Russian, English Spanish and Arabic. It is available as a web service and as a mobile app for different mobile platforms",
+                        {
+                            "type": "list",
+                            "content": [
+                                "Launch date: July 2020",
+                                "By January 2021, service had been used by 700,000+ people",
+                                "In January 2022, over 1,000 companies from 85 regions of Russia became the partners of the service",
+                                "More than 5,500 tourist offers for traveling around Russia are available via RussPass"
+                            ]
+                        },
+                        {
+                            "type": "awards",
+                            "content": [
+                                {
+                                    "year": "2021",
+                                    "awards": [
+                                        "RussPass won the Runet Award in the \u201cDomestic Tourism Development\u201d category"
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
                 }
             ]
         }
