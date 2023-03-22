@@ -20,10 +20,12 @@ const DetailFrame = () => {
                 return <Awards key={index} awards={item.content} />;
             case "list":
                 return <DetailList key={index} items={item.content} />;
-            case "logo":
-                return ""; // done in advance
+            case "image":
+                return <h1 key={index} >IMAGE</h1>;
             case "href":
-                return <DetailQR key={index} href={item.href} />;
+                return <h1 key={index} >HREF</h1>;
+            case "subcategory":
+                return <p key={index} style={{color: "red"}}>{JSON.stringify(item)}</p>;
             default:
                 return <p key={index} >{item}</p>;
         };
@@ -33,13 +35,15 @@ const DetailFrame = () => {
         <PageLayout title={goal.name}>
             <div className="detailContainer">
                 {
-                    content.filter((item) => (item.type === "logo"))
-                        .map((item, index) => <DetailLogo key={index} src={item.href} />)
+                    goal.logo ? <DetailLogo key={'logo'} src={goal.logo} /> : ""
                 }
                 {
                     content.map((item, index) => (
                         setContent(item, index)
                     ))
+                }
+                {
+                    goal.href ? <DetailQR key={'href'} href={goal.href} /> : ""
                 }
                 <div className="clear"></div>
                 <BottomNav />

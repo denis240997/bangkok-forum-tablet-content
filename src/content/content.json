@@ -9,7 +9,7 @@
                 {
                     "name": "Drinking Water Improvement",
                     "content": [
-                        "Work to improve the quality of people\u0432\u0402\u2122s lives, which depends primarily on the availability of drinking water, is an ongoing endeavor in Moscow. Special efforts are made to prevent unpleasant odors emanating from various facilities and to reduce emissions into the atmosphere. Water quality is also a priority, with quality matching the level achieved in leading capital cities across the globe.",
+                        "Work to improve the quality of people\u2019s lives, which depends primarily on the availability of drinking water, is an ongoing endeavor in Moscow. Special efforts are made to prevent unpleasant odors emanating from various facilities and to reduce emissions into the atmosphere. Water quality is also a priority, with quality matching the level achieved in leading capital cities across the globe.",
                         "Water treatment facilities in Moscow use advanced technology to purify drinking water. According to the 2025 plan of the development of the Moscow water supply system, the existing water treatment facilities are undergoing refurbishment and upgrade, with the most effective technologies (above all, ozone sorption) being implemented on a step by step basis. As a water treatment method, ozone sorption is based on a combined use of ozonation and sorption processes for water purification. Depending on the operational diagram, ozonation is takes one or two stages to perform. Powdered or granulated activated carbon is used as a sorbent."
                     ]
                 },
@@ -23,11 +23,12 @@
                 },
                 {
                     "name": "Raising awareness of responsible water consumption",
-                    "subcategories": [
+                    "content": [
                         {
+                            "type": "subcategory",
                             "name": "Communications facilitated via mos.ru",
                             "content": [
-                                "Since 2012, Moscow residents have been submitting water meter readings online through a convenient service on the Moscow Mayor\u0432\u0402\u2122s portal, mos.ru. The service boasts a monthly audience of 1 million people. Water meters register actual water consumption, and people pay for the amount actually consumed. In order to encourage citizens to save water and draw their attention to the problem of sustainable use of natural resources, the service coverage was expanded and the following features were added to the existing service in 2021: charts and comparisons (users can see a visualized analysis of water consumption in comparison with the average figures for the city); emotional reinforcement (e.g., if water consumption goes down, the service will send a notification with a positive emoji); tips on how to reduce water consumption. In addition, the users are encouraged to take an interactive test that will help them find out how economically water is used in the house. Based on its results, tips are offered on how to avoid unnecessary water consumption.",
+                                "Since 2012, Moscow residents have been submitting water meter readings online through a convenient service on the Moscow Mayor\u2019s portal, mos.ru. The service boasts a monthly audience of 1 million people. Water meters register actual water consumption, and people pay for the amount actually consumed. In order to encourage citizens to save water and draw their attention to the problem of sustainable use of natural resources, the service coverage was expanded and the following features were added to the existing service in 2021: charts and comparisons (users can see a visualized analysis of water consumption in comparison with the average figures for the city); emotional reinforcement (e.g., if water consumption goes down, the service will send a notification with a positive emoji); tips on how to reduce water consumption. In addition, the users are encouraged to take an interactive test that will help them find out how economically water is used in the house. Based on its results, tips are offered on how to avoid unnecessary water consumption.",
                                 "In June 2021, a special project, Clean Water: How It Works, was launched on the mos.ru portal: mos.ru/city/projects/water. It features the most important and useful information about water, says how and why you need to save it. It describes large-scale processes of water production and treatment, and the path water takes before it reaches your faucets.",
                                 "The water-saving project was acknowledged as one of the best smart city living services in the Smart Living category of the international German Innovation Award.",
                                 "The goal of the project is to see a 2% reduction in water consumption by service users."
@@ -35,9 +36,10 @@
                             "href": "https://www.mos.ru/city/projects/water/"
                         },
                         {
+                            "type": "subcategory",
                             "name": "Utilization of AR technologies",
                             "content": [
-                                "To support the service and involve even more people in the project, an augmented reality (AR) campaign, The Price of Water, was conducted from February to April 2021. The key idea was to show how much effort and energy is actually spent on bringing water to households. In an interactive format, the users walked the entire path of a drop of water, from the moment it enters a body of water to the minute it reaches the faucet in their apartment. A special QR code was printed on the back side of the Unified Payment Document, a receipt for housing and utility services. (Twelve million papers were printed in total.) Scanning the code with a smartphone camera launched an interactive presentation with elements of augmented reality. With the help of AR, different stages of water treatment are shown, as water gets purified and becomes potable. The user is invited to \u0432\u0402\u045alaunch\u0432\u0402\u045c the process of preparing water for supply to households, e.g., to start the purification procedure, open the pumps and taps."
+                                "To support the service and involve even more people in the project, an augmented reality (AR) campaign, The Price of Water, was conducted from February to April 2021. The key idea was to show how much effort and energy is actually spent on bringing water to households. In an interactive format, the users walked the entire path of a drop of water, from the moment it enters a body of water to the minute it reaches the faucet in their apartment. A special QR code was printed on the back side of the Unified Payment Document, a receipt for housing and utility services. (Twelve million papers were printed in total.) Scanning the code with a smartphone camera launched an interactive presentation with elements of augmented reality. With the help of AR, different stages of water treatment are shown, as water gets purified and becomes potable. The user is invited to \u201claunch\u201d the process of preparing water for supply to households, e.g., to start the purification procedure, open the pumps and taps."
                             ],
                             "href": "https://clean-water.arweb.app/"
                         }
@@ -52,8 +54,9 @@
             "categories": [
                 {
                     "name": "Moscow’s Investment Portal",
+                    "logo": "/src/content/img/invest_moscow.svg",
                     "content": [
-                        "To improve efficiency and quality of interaction between the capital city\u0432\u0402\u2122s authorities and businesses, an investment portal was launched in 2014 with the backing of the Moscow Government: https://investmoscow.ru/. For ten years, it has remained one of the most popular specialized resources for businesses. More than 72,000 personal accounts have been registered on the website over time. Entrepreneurs have access to 30 online services on the investment portal. These services facilitate getting support measures sponsored by the city, reduce interaction time, help find platforms, partners and information necessary for the implementation of investment projects. In late 2020, the Moscow Investor service was launched on the investment portal. Using that service as a one-stop shop, Moscow businessmen can submit their questions and proposals regarding investment activities in the capital city and receive answers to their personal accounts within short timeframes. For the sake of convenience, a mobile application was launched in order to make services of the investment portal more readily accessible for the users. Using their smartphone, they can file an application, get information about the city\u0432\u0402\u2122s property and select the most suitable sites, read industry-related news and check the status of their applications in the personal cabinet. Moreover, the investment portal has a section called \u0432\u0402\u045aIndustry,\u0432\u0402\u045c which helps manufacturers find a facility where they potentially can organize their production. In addition, registered users of the portal now have access to a map of integrated development of territories, a list of the latest technological developments, as well as current industry news.",
+                        "To improve efficiency and quality of interaction between the capital city\u2019s authorities and businesses, an investment portal was launched in 2014 with the backing of the Moscow Government: https://investmoscow.ru/. For ten years, it has remained one of the most popular specialized resources for businesses. More than 72,000 personal accounts have been registered on the website over time. Entrepreneurs have access to 30 online services on the investment portal. These services facilitate getting support measures sponsored by the city, reduce interaction time, help find platforms, partners and information necessary for the implementation of investment projects. In late 2020, the Moscow Investor service was launched on the investment portal. Using that service as a one-stop shop, Moscow businessmen can submit their questions and proposals regarding investment activities in the capital city and receive answers to their personal accounts within short timeframes. For the sake of convenience, a mobile application was launched in order to make services of the investment portal more readily accessible for the users. Using their smartphone, they can file an application, get information about the city\u2019s property and select the most suitable sites, read industry-related news and check the status of their applications in the personal cabinet. Moreover, the investment portal has a section called \u201cIndustry,\u201d which helps manufacturers find a facility where they potentially can organize their production. In addition, registered users of the portal now have access to a map of integrated development of territories, a list of the latest technological developments, as well as current industry news.",
                         {
                             "type": "list",
                             "content": [
@@ -73,22 +76,18 @@
                                 {
                                     "year": "2020",
                                     "awards": [
-                                        "The project was awarded the \u0432\u0402\u045aBeneficial Practice\u0432\u0402\u045c diploma of the review-competition of the Assembly of Capitals and Major Cities of the CIS and the EAEU \u0432\u0402\u045aThe City We Want to Live In\u0432\u0402\u045c",
-                                        "The project was shortlisted for The DADI Awards in the \u0432\u0402\u045aFinance Services\u0432\u0402\u045c category"
+                                        "The project was awarded the \u201cBeneficial Practice\u201d diploma of the review-competition of the Assembly of Capitals and Major Cities of the CIS and the EAEU \u201cThe City We Want to Live In\u201d",
+                                        "The project was shortlisted for The DADI Awards in the \u201cFinance Services\u201d category"
                                     ]
                                 },
                                 {
                                     "year": "2021",
                                     "awards": [
-                                        "The project won the Digital Summit Award in the \u0432\u0402\u045aBest Solution for Economic Development\u0432\u0402\u045c nomination",
-                                        "The project received a special prize in the Russian Golden Site award in the \u0432\u0402\u045aBusiness and Investment Support Site\u0432\u0402\u045c nomination"
+                                        "The project won the Digital Summit Award in the \u201cBest Solution for Economic Development\u201d nomination",
+                                        "The project received a special prize in the Russian Golden Site award in the \u201cBusiness and Investment Support Site\u201d nomination"
                                     ]
                                 }
                             ]
-                        },
-                        {
-                            "type": "logo",
-                            "href": "./img/invest_moscow.svg"
                         }
                     ]
                 },
@@ -106,8 +105,10 @@
                 },
                 {
                     "name": "I.Moscow, Moscow Innovation Cluster Program",
+                    "logo": "/src/content/img/moscow_innovation_cluster.svg",
+                    "href": "https://i.moscow/",
                     "content": [
-                        "The Moscow Innovation Cluster (MIC) is a Moscow Government-sponsored project created in April 2019 in order to foster development of innovative organizations, projects and cooperation between large companies, industries, small and medium-sized businesses, educational and scientific organizations and the city. The cluster brings together entrepreneurship, development institutions, authorities and other market stakeholders who need effective tools to create innovative and technology-intensive projects. As of today, more than 35,000 organizations are listed as participants and partners of the Moscow Innovation Cluster, including the Skolkovo Foundation, the Research Centre Kurchatov Institute, Rosnano Corp., technology parks Strogino and Slava, small and medium-sized enterprises, as well as research centers of Moscow\u0432\u0402\u2122s major universities.",
+                        "The Moscow Innovation Cluster (MIC) is a Moscow Government-sponsored project created in April 2019 in order to foster development of innovative organizations, projects and cooperation between large companies, industries, small and medium-sized businesses, educational and scientific organizations and the city. The cluster brings together entrepreneurship, development institutions, authorities and other market stakeholders who need effective tools to create innovative and technology-intensive projects. As of today, more than 35,000 organizations are listed as participants and partners of the Moscow Innovation Cluster, including the Skolkovo Foundation, the Research Centre Kurchatov Institute, Rosnano Corp., technology parks Strogino and Slava, small and medium-sized enterprises, as well as research centers of Moscow\u2019s major universities.",
                         "The IT platform of the Moscow Innovation Cluster, i.Moscow, combines the necessary tools and services for creating and managing innovative projects, from electronic submission of applications for support measures and providing pilot sites, to assistance in finding new clients, partners and investors. i.Moscow in figures: over 35,000 participants and partners, 195 support measures, 1,900 premises available for rent, over 1,500 projects, and a partner search tool (investments, premises, industrial partners). An important part of i.Moscow is occupied by social innovations; their implementation will significantly improve the quality of living in the city. That said, electronic filings for services allow all citizens, including people with disabilities, to use the services.",
                         {
                             "type": "list",
@@ -126,25 +127,17 @@
                                 {
                                     "year": "2020",
                                     "awards": [
-                                        "The project won the Runet Prize in the \u0432\u0402\u045aEconomy and Business\u0432\u0402\u045c category",
+                                        "The project won the Runet Prize in the \u201cEconomy and Business\u201d category",
                                         "The platform took second place in the Russian national competition of regional and municipal informatization projects PROF-IT.2020, in the Support for Business category."
                                     ]
                                 },
                                 {
                                     "year": "2021",
                                     "awards": [
-                                        "The project received a special prize in the Russian \u0432\u0402\u045aGolden Site\u0432\u0402\u045c award in the in the \u0432\u0402\u045aBest Usability / UX\u0432\u0402\u045c nomination"
+                                        "The project received a special prize in the Russian \u201cGolden Site\u201d award in the in the \u201cBest Usability / UX\u201d nomination"
                                     ]
                                 }
                             ]
-                        },
-                        {
-                            "type": "href",
-                            "href": "https://i.moscow/"
-                        },
-                        {
-                            "type": "logo",
-                            "href": "/src/content/img/moscow_innovation_cluster.svg"
                         }
                     ]
                 },
