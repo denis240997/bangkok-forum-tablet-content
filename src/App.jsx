@@ -2,15 +2,16 @@ import MainFrame from "./pages/MainFrame";
 import GoalDetailFrame from "./pages/GoalDetailFrame";
 import DetailFrame from "./pages/DetailFrame";
 import LogoBar from "./widgets/LogoBar";
-import content from './content/content.json';    // dev version
-// import content from './content/content_public.json';    // build version
+// import content from './content/content.json';    // dev version
+import content from './content/content_public.json';    // build version
 import { Route, Routes } from "react-router-dom"
-import './App.css'
+import './App.css'    // dev/build version
+import './App-preview.css'    // Preview version
 
 
 const App = () => {
     return (
-        <div className="app">
+        <div className="app" id="preview">
             <LogoBar />
             <div className="pageContent">
                 <Routes>
