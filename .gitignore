@@ -11,6 +11,9 @@ node_modules
 dist
 dist-ssr
 *.local
+public
+src/content/content_public.json
+src/content/markup_tools/content*
 
 # Editor directories and files
 .vscode/*
