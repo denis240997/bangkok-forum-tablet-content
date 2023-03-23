@@ -6,13 +6,13 @@ import DetailList from "../components/DetailList";
 import Awards from "../widgets/Awards";
 import DetailLogo from "../components/DetailLogo";
 import DetailQR from "../components/DetailQR";
+import NestedDetailBlock from "../widgets/NestedDetailBlock";
 
 
 const DetailFrame = () => {
 
     const location = useLocation()
     const goal = location.state
-    const content = goal.content
 
     const setContent = (item, index) => {
         switch (item.type) {
@@ -25,24 +25,34 @@ const DetailFrame = () => {
             case "readmore":
                 return <DetailQR key={index} href={item.href} />;
             case "subcategory":
-                return <p key={index} style={{color: "red"}}>{JSON.stringify(item)}</p>;
+                return <NestedDetailBlock key={index} title={item.name}>
+                    {fillDetails(item)}
+                </NestedDetailBlock>;
             default:
                 return <p key={index} >{item}</p>;
         };
     };
 
-    return (
-        <PageLayout title={goal.name}>
-            <div className="detailContainer">
+    const fillDetails = (item) => {
+        return (
+            <>
                 {
-                    goal.logo ? <DetailLogo key={'logo'} src={goal.logo} /> : ""
+                    item.logo ? <DetailLogo key={'logo'} src={item.logo} /> : ""
                 }
                 {
-                    content.map((item, index) => (
+                    item.content.map((item, index) => (
                         setContent(item, index)
                     ))
                 }
                 <div className="clear"></div>
+            </>
+        );
+    };
+
+    return (
+        <PageLayout title={goal.name}>
+            <div className="detailContainer">
+                {fillDetails(goal)}
                 <BottomNav />
             </div>
         </PageLayout>
