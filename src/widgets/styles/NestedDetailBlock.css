@@ -1,4 +1,4 @@
-.nestedDetailTitle {
+.nestedDetailBlock {
     padding-bottom: 10px;
     border-style: solid;
 
@@ -7,6 +7,6 @@
     align-items: center;
 }
 
-.nestedDetailTitle > * {
+.nestedDetailBlock > * {
     margin: 10px 20px 0px 20px;
 }
