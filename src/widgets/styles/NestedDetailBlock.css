@@ -1,14 +1,27 @@
 .nestedDetailBlock {
     padding-bottom: 10px;
+    margin-bottom: 40px;
     border-style: solid;
+    border-width: 0 0 2px 0;
+    border-color: var(--text-headers-blue);
 
     display: flex;
     flex-direction: column;
+    align-items: stretch;
+}
+
+.dropDownButtonArea {
+    display: flex;
+    justify-content: space-between;
     align-items: center;
+    font-family: RobotoBold;
+    font-size: 35px;
+    line-height: 130%;
+    color: var(--text-headers-blue);
 }
 
 .nestedDetailContent {
-    align-self: stretch;
+    padding: 20px 0px;
 }
 
 .nestedDetailBlock > * {
