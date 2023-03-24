@@ -20,7 +20,8 @@ const DetailFrame = () => {
             case "presentation":
                 return <SliderModal key={index} {...item} />;
             case "awards":
-                return <Awards key={index} awards={item.content} />;
+                const awards = [...item.content].reverse()
+                return <Awards key={index} awards={awards} />;
             case "list":
                 return <DetailList key={index} items={item.content} />;
             case "image":
