@@ -62,7 +62,7 @@
                     "name": "Moscow’s Investment Portal",
                     "logo": "/src/content/img/invest_moscow.svg",
                     "content": [
-                        "To improve efficiency and quality of interaction between the capital city\u2019s authorities and businesses, an investment portal was launched in 2014 with the backing of the Moscow Government: https://investmoscow.ru/. For ten years, it has remained one of the most popular specialized resources for businesses. More than 72,000 personal accounts have been registered on the website over time. Entrepreneurs have access to 30 online services on the investment portal. These services facilitate getting support measures sponsored by the city, reduce interaction time, help find platforms, partners and information necessary for the implementation of investment projects. In late 2020, the Moscow Investor service was launched on the investment portal. Using that service as a one-stop shop, Moscow businessmen can submit their questions and proposals regarding investment activities in the capital city and receive answers to their personal accounts within short timeframes. For the sake of convenience, a mobile application was launched in order to make services of the investment portal more readily accessible for the users. Using their smartphone, they can file an application, get information about the city\u2019s property and select the most suitable sites, read industry-related news and check the status of their applications in the personal cabinet. Moreover, the investment portal has a section called \u201cIndustry,\u201d which helps manufacturers find a facility where they potentially can organize their production. In addition, registered users of the portal now have access to a map of integrated development of territories, a list of the latest technological developments, as well as current industry news.",
+                        "To improve efficiency and quality of interaction between the capital city\u2019s authorities and businesses, an investment portal was launched in 2014 with the backing of the Moscow Government. For ten years, it has remained one of the most popular specialized resources for businesses. More than 72,000 personal accounts have been registered on the website over time. Entrepreneurs have access to 30 online services on the investment portal. These services facilitate getting support measures sponsored by the city, reduce interaction time, help find platforms, partners and information necessary for the implementation of investment projects. In late 2020, the Moscow Investor service was launched on the investment portal. Using that service as a one-stop shop, Moscow businessmen can submit their questions and proposals regarding investment activities in the capital city and receive answers to their personal accounts within short timeframes. For the sake of convenience, a mobile application was launched in order to make services of the investment portal more readily accessible for the users. Using their smartphone, they can file an application, get information about the city\u2019s property and select the most suitable sites, read industry-related news and check the status of their applications in the personal cabinet. Moreover, the investment portal has a section called \u201cIndustry,\u201d which helps manufacturers find a facility where they potentially can organize their production. In addition, registered users of the portal now have access to a map of integrated development of territories, a list of the latest technological developments, as well as current industry news.",
                         {
                             "type": "list",
                             "content": [
@@ -78,7 +78,7 @@
                         },
                         {
                             "type": "readmore",
-                            "href": "https://en.investmoscow.ru/?ysclid=lfchk6muf0221233331"
+                            "href": "https://en.investmoscow.ru/"
                         },
                         {
                             "type": "awards",
@@ -136,6 +136,12 @@
                         "A catalog of goods, works and services, formed on the basis of the suppliers\u2019 price lists, contains more than 1.7 million unique items. When a new catalog item is created, the product image is automatically analyzed and the user is recommended a category for placing new products.",
                         "Based on previous history of activities and downloaded products, artificial intelligence (AI) algorithms are used to generate a list of recommendations for suppliers with respect to planned purchases. AI is also used in the chatbot, which handles 70% of customer service calls.",
                         {
+                            "type": "presentation",
+                            "number": "1",
+                            "start": "0",
+                            "end": "4"
+                        },
+                        {
                             "type": "readmore",
                             "href": "https://zakupki.mos.ru/en"
                         },
@@ -144,7 +150,13 @@
                             "name": "Project “Land for 1 ruble”",
                             "content": [
                                 "A project to support large-scale investment projects in Moscow, including provision of a land plot for lease without bidding for a period of 5 years at a preferential rental rate of 1 ruble.",
-                                "This allows businesses to reduce the cost of creating jobs, as well as to establish production of important products for capital city\u2019s life and economy within a short time period."
+                                "This allows businesses to reduce the cost of creating jobs, as well as to establish production of important products for capital city\u2019s life and economy within a short time period.",
+                                {
+                                    "type": "presentation",
+                                    "number": "2",
+                                    "start": "0",
+                                    "end": "5"
+                                }
                             ]
                         },
                         {
@@ -155,7 +167,13 @@
                                 "Industrial park: the status assigned to a complex of real estate properties under single management, if that complex consists of land plots with production, administrative, warehouse buildings and facilities, and is provided with energy resources, engineering and transport infrastructure.",
                                 "Technopark: an asset of industrial and technological innovation infrastructure, which facilitates development of high-tech resident companies.",
                                 "Applicants for each status are required to meet requirements for minimum revenue, investment, payroll and average monthly salary of employees.",
-                                "In 2022, as part of anti-crisis measures to support businesses, Sergey Sobyanin, Mayor of Moscow, decided to automatically renew the special statuses for a period of one year, allowing companies to keep the benefits without mandatory confirmation."
+                                "In 2022, as part of anti-crisis measures to support businesses, Sergey Sobyanin, Mayor of Moscow, decided to automatically renew the special statuses for a period of one year, allowing companies to keep the benefits without mandatory confirmation.",
+                                {
+                                    "type": "presentation",
+                                    "number": "3",
+                                    "start": "0",
+                                    "end": "7"
+                                }
                             ]
                         }
                     ]
@@ -168,9 +186,18 @@
                     "name": "I.Moscow, Moscow Innovation Cluster Program",
                     "logo": "/src/content/img/moscow_innovation_cluster.png",
                     "content": [
-                        "The Moscow Innovation Cluster (MIC) is a Moscow Government-sponsored project created in April 2019 in order to foster development of innovative organizations, projects and cooperation between large companies, industries, small and medium-sized businesses, educational and scientific organizations and the city. The cluster brings together entrepreneurship, development institutions, authorities and other market stakeholders who need effective tools to create innovative and technology-intensive projects. As of today, more than 35,000 organizations are listed as participants and partners of the Moscow Innovation Cluster, including the Skolkovo Foundation, the Research Centre Kurchatov Institute, Rosnano Corp., technology parks Strogino and Slava, small and medium-sized enterprises, as well as research centers of Moscow\u2019s major universities.",
-                        "The IT platform of the Moscow Innovation Cluster, i.Moscow, combines the necessary tools and services for creating and managing innovative projects, from electronic submission of applications for support measures and providing pilot sites, to assistance in finding new clients, partners and investors. i.Moscow in figures: over 35,000 participants and partners, 195 support measures, 1,900 premises available for rent, over 1,500 projects, and a partner search tool (investments, premises, industrial partners). An important part of i.Moscow is occupied by social innovations; their implementation will significantly improve the quality of living in the city. That said, electronic filings for services allow all citizens, including people with disabilities, to use the services.",
-                        {
+                        "The Moscow Innovation Cluster (\u201cCluster\u201d) was created in 2018 pursuant to Decree of the President of the Russian Federation No. 672 dated November 26, 2018 and Decree of the Government of Moscow No. 435-PP dated April 25, 2019.",
+    "The cluster was created to develop the innovative potential of the city of Moscow and is designed to join forces and resources of scientific and research organizations, industrial enterprises, corporations, small and medium-sized businesses, educational institutions, IT companies, engineering centers, technology parks and other companies and business people to implement joint innovative products and adopt breakthrough technologies.",
+    "Currently, the Cluster brings together more than 36,000 organizations and individual entrepreneurs from 81 regions of Russia (including 26,000 Moscow entrepreneurs).",
+    "The cluster is operated by the Moscow Innovation Cluster Foundation.",
+    "The Cluster\u2019s services and resources are aimed at creating new technology companies, scaling projects and boosting demand for innovations, attracting investments in hi-tech projects, registering patents, including foreign ones, and creating infrastructure for development of innovations.",
+    "The IT platform i.moscow is the Cluster\u2019s digital basis. With the help of the platform\u2019s digital services, the Cluster\u2019s members can, among other things, select the support measure required for their business development, apply for it, complete awareness and acceleration formalities, find a site for localization in the capital city, establish contract manufacturing of their products at independent manufacturing facilities, find technologies, and register their own solutions and developments. At i.moscow, services covering all stages of the life cycle of a project have been implemented, from the idea to scaling and entering new markets.",
+    "In particular, aspiring entrepreneurs can take part in the Academy of Innovators program. Participation in it helps launch an innovative project, and an entrepreneur can complete educational tracks, conduct pilot tests of a technological solution, and attract investors and other partners.",
+    "The Cluster\u2019s participants interested in attracting investments for their projects can take advantage of a set of measures to support investment attraction of a project, from assistance in packaging a project adequately for investors or developing an attractive presentation of a project for investors to holding a road show with potential investors. In December 2021, Syndicate, a club of private venture investors, was set up on the basis of the Cluster to unite all those who are interested in investing in promising technological projects of the Russian capital city.",
+    "An educational program entitled Venture Academy was launched for aspiring investors in 2021. Training is free, and it is provided on a competitive basis. As part of the educational activities, course attendees receive information on how to increase their initial investment capital, close a profitable financial deal, open an investment fund, find partners to establish a syndicate, determine which venture capital trends will be in the forefront in the coming years, and how to reduce investment risks.",
+    "For those who carry out activities in research and development, the Patent Exchange was launched in 2022. This service allows them to efficiently organize work with the results of intellectual activity. As of today, more than 1.7 million patents are featured on the service page. In addition, the service \u201cSearch for patents for inventions and utility models,\u201d as well as \u201cSearch for trademarks\u201d was launched. In addition, the Cluster\u2019s participants can get grants for patenting inventions and/or utility models abroad and in the Russian Federation (up to 2 million rubles and 75,000 rubles, respectively).",
+    "As part of the Cluster, infrastructure has been created to promote cooperation between the academic community and businesses. In January 2023, the cluster Lomonosov, with a total area of 65,000 square meters was opened at Sparrow Hills, Moscow State University\u2019s innovation science and technology center. The facility has on its grounds companies carrying out scientific and technological activities and provides an environment for the development of breakthrough innovative products through tax benefits and other preferences offered to the center\u2019s residents. Resident companies receive tax exemption for the first 10 years of operations (incl. exemption from income tax, property tax and value-added tax); they are eligible for a refund of customs duties, and will not need to obtain a permit for educational activities; insurance premiums will be reduced to 14%. Twenty-six companies have already received the status of a Lomonosov cluster resident.",
+    {
                             "type": "list",
                             "content": [
                                 "Year of project launch: 2019",
@@ -207,9 +234,22 @@
                 },
                 {
                     "name": "Program for the creation of workplaces",
+                    "logo": "/src/content/img/policy_moscow.png",
                     "content": [
-                        "A program aimed at integrated development of residential areas, taking into account the need for jobs, scaling back commuting to the city center and reducing the burden on roads and public transport.",
-                        "Background information on the workplaces program in the archive folder"
+                        "The city launched a workplace program in 2020. It is designed to boost comprehensive development of residential areas, taking into account the need for jobs, to reduce commuting to the city center, and to diminish the burden on roads and public transportation.",
+                        "In turn, the city gives investors an opportunity to make significant savings and increase their income in the future. For the creation of additional jobs, developers receive from the city a benefit on payment for changing the type of permitted use of land for the construction of a residential building. As a result, the investor will be receiving income not only from the sale of apartments, but also from the construction of a new commercial facility.",
+                        "By now, the city has entered into 33 agreements with developers. Under these agreements, the developers will build 76 properties which will employ more than 56,600 people. A record number of agreements were signed in 2022. There were 17 of them, which is almost twice as many as in previous years.",
+                        "Under all the signed agreements, investors will build 47 educational institutions, 10 office centers, nine modern industrial complexes, four retail-and-office buildings and shopping malls, as well as a sports facility and an art museum.",
+                        "The implementation of the projects will require an investment of 152 billion rubles, and upon commissioning of the facilities, more than 56,600 new jobs will be created in the city. Most of the new workplaces, or over 40,400, will be located in office premises and commercial buildings.",
+                        "The peak of investment activity occurred in late November and early December 2022. In that period, the city signed nine agreements with developers on creation of workplaces. Investors will build 16 educational institutions, an innovation center, an art museum, two industrial complexes, and three office buildings. These facilities will generate more than 19,700 jobs for the city.",
+                        "This type of cooperation is beneficial for both the city and the investor: The program not only addresses employment issues but also reduces commuting and the burden on the roads, with the investors getting an opportunity to make significant savings and increase their income in the future.",
+                        "The workplace program is popular with developers. Some of the investors who previously entered into agreements with Moscow continue to come up with new projects and also bring existing ones to the next level by expanding their facilities and/or investing additional funds in creating new workplaces.",
+                        "The terms of the program are improved on an ongoing basis and broadened depending on the needs of the developers and the current economic situation. This year, an opportunity emerged to increase the scope of benefits. For this purpose, it is necessary to reduce the period of workplace creation. If that period is cut by 6 to 12 months, the benefit will increase by 5%, and with a reduction of 12 months upwards, it will increase by 10%.",
+                        "Also in 2022, we expanded the list of facilities that make investors eligible for a benefit. Facilities providing complex logistics services have been added to the list.",
+                        "In addition, from this year onward, developers may involve more co-contractors in their projects. Previously, the investor and the involved party\u2019s memberships were to have at least a 75-percent match; now the requirement has been reduced to 51 percent.",
+                        "Another novelty: an increase in the time limit for the creation of jobs inside a residential buildings. Previously, it was from three to six years, depending on the size of the building, and now the contract will remain valid until the completion of construction of an apartment building.",
+                        "Changes have also affected the factors that affect the calculation of the scope of benefits. For all districts of the Russian capital city, a single factor was introduced, which determines the scope of benefit for cultural facilities, social infrastructure and inpatient medical facilities. For schools, children daycare centers and outpatient clinics that factor will apply if workplaces are created on the same grounds with a residential compound.",
+                        "Developers from Pioneer Group, FSK, Afi Development, Capital Group, RG-Development, Strana Development, 3S Group, Sber, Samolet, Granel and Level Group have already joined the program. Some of them have signed not one but several agreements, e.g., Pioneer Group, FSK, Capital Group and some others."
                     ]
                 },
                 {
@@ -292,6 +332,12 @@
                 {
                     "name": "Special economic zone “Technopolis”",
                     "content": [
+                        {
+                            "type": "presentation",
+                            "number": "4",
+                            "start": "0",
+                            "end": "7"
+                        },
                         {
                             "type": "readmore",
                             "href": "https://technomoscow.com/"
