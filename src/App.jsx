@@ -6,7 +6,7 @@ import LogoBar from "./widgets/LogoBar";
 import content from './content/content_public.json';    // build version
 import { Route, Routes } from "react-router-dom"
 import './App.css'    // dev/build version
-// import './App-preview.css'    // Preview version
+import './App-preview.css'    // Preview version
 
 
 const App = () => {
