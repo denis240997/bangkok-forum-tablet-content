@@ -19,7 +19,7 @@ const SliderModal = ({ number, start, end }) => {
     const renderSlides = () => (
         range(start, end).map(num => (
             <div>
-                <img src={`/src/content/presentations/${number}/${num}.jpg`} />
+                <img src={`/presentations/${number}/${num}.jpg`} />
             </div>
         )));
 
