@@ -58,6 +58,22 @@
 .subgoalCardsContainer > .goal_9.i_10 {
   grid-column: span 10;
 }
+.subgoalCardsContainer > .goal_9.i_11 {
+  grid-column: span 6;
+}
+.subgoalCardsContainer > .goal_9.i_12 {
+  grid-column: span 12;
+}
+.subgoalCardsContainer > .goal_9.i_13 {
+  grid-column: span 8;
+}
+.subgoalCardsContainer > .goal_9.i_14 {
+  grid-column: span 10;
+  grid-row: span 2;
+}
+.subgoalCardsContainer > .goal_9.i_15 {
+  grid-column: span 8;
+}
 
 
 .subgoalCardsContainer > .goal_11.i_0 {

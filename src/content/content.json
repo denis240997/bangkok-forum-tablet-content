@@ -297,6 +297,44 @@
                             "href": "https://technomoscow.com/"
                         }
                     ]
+                },
+                {
+                    "name": "Electronic prescriptions",
+                    "content": [
+                        "Electronic prescriptions with a QR code have been prescribed in all city polyclinics since February 2021. Muscovites can get prescription medications by presenting a QR code on the mobile screen. This option is available in all pharmacies of the Department of Health \u2013 more than 2.5 thousand pharmacies and pharmacy points participate in the project. Moscow doctors have written out over 35 million electronic prescriptions with a QR code.",
+                        "In January 2022, a pilot project was launched in Moscow, within the framework of which citizens can now receive preferential medicines not only in pharmacies of the Moscow Department of Health, but also in commercial pharmacies using electronic prescriptions. It is important that, if desired, the patient will be able to pay extra and take another trade name. Over 350 commercial pharmacies have joined the project."
+                    ]
+                },
+                {
+                    "name": "Artificial intelligence in radiation diagnostics",
+                    "content": [
+                        "Computer vision and artificial intelligence help doctors analyze medical images of patients. Algorithms mark areas of possible pathologies with color hints and rank medical images according to the degree of probability of pathology. In any case, the final diagnosis is made by a doctor, but the use of new technologies significantly speeds up the diagnosis and increases its accuracy.",
+                        "Neural networks have already processed more than 8.5 million radiation studies of patients. Doctors use 44 computer vision services in 19 areas of radiation research. Their capabilities are regularly expanded and the share of images that are processed by smart algorithms is constantly growing. As of today, half of all radiation examinations of patients in Moscow polyclinics are analyzed by artificial intelligence services",
+                        "The algorithms are available to radiologists of 150 medical institutions, including children's. By the end of 2023, there will be another 20 new clinical areas in which developers will be able to offer their algorithms for the capital's healthcare, and by the end of this year there will be about 50 of them.",
+                        "Moscow radiologists have developed 10 Russian state standards for testing artificial intelligence."
+                    ]
+                },
+                {
+                    "name": "Electronic medical card",
+                    "content": [
+                        "Electronic medical record (EMC) is a universal repository of information about the patient's health. In the electronic medical record on mos.ru and in the EMIAS mobile app.INFO reflects the results of admission from specialists. Both the patient and the doctor have access to the results of their analyses and studies around the clock. The amount of information available in the EMC is gradually expanding.",
+                        "As of today, 17 million active cards have been issued. In total, the EMC contains more than 2.2 billion structured data. The introduction of the EMC made it possible to convert many other medical documents into an electronic format \u2014 an electronic prescription, an electronic hospital certificate and others. This is a huge saving of polyclinic resources and time of doctors and patients.",
+                        "Patients can make an appointment with a doctor, as well as reschedule and cancel an appointment, view directions, view prescriptions remotely without a visit to the clinic at any convenient time and in any place. Most often, citizens use the mobile application \"EMIAS. INFO\". In addition, the service is available in the applications \"Public Services of Moscow\" and \"My Moscow\", on the portals mos.ru and \"EMIAS. INFO\". To make an online appointment with a doctor, you need a Moscow compulsory medical insurance policy, as well as an attachment to one of the polyclinics of the capital. In 2022, Muscovites signed up online for a doctor more than 100 million times.",
+                        "Before a doctor's appointment, an artificial intelligence-based chatbot collects patients' complaints about their well-being. This is a service of a single digital healthcare platform that allows you to reduce the time spent by doctors on collecting complaints and anamnesis. The chatbot is integrated with EMIAS, and is available to residents of Moscow when making an appointment with a therapist, an otorhinolaryngologist, a gynecologist, an ophthalmologist, a surgeon, as well as parents of children under 18 years of age \u2013 before an appointment with a pediatrician. Over the entire period of operation, Muscovites have used the chatbot more than 1.6 million times. In addition, the digital assistant helps Muscovites to enter personal history information into the EMC.",
+                        "Thanks to the EMC in Moscow, it becomes possible to organize a paperless format of the polyclinic. All children's polyclinics of the city have already completely abandoned paper medical cards. This freed both doctors and parents of young patients from unnecessary paperwork. Paper medical records began to be transported for storage to the Glavarchiv's robotic cluster. Comfortable rooms for doctors \u2014 professional growth rooms and rest rooms - are being equipped in polyclinics on the site of former card storage facilities. Doctors will be able to gather for trainings and master classes, discuss scientific projects, work tasks."
+                    ]
+                },
+                {
+                    "type": "tile_picture",
+                    "href": "/src/content/img/goal_tile_pictures/goal_9_14.jpg"
+                },
+                {
+                    "name": "Medical Decision Support system",
+                    "content": [
+                        "At the appointment, the doctor is assisted by a medical decision support system \u2014 a digital service based on artificial intelligence integrated into the Unified Medical Information and Analytical System of Moscow (EMIAS). The doctor enters the patient's complaints into the examination protocol, which the digital assistant immediately begins to analyze and then suggests the three most likely preliminary diagnoses. At the same time, a specialist can either choose one of the proposed diagnoses or make his own. The final decision is always left to the specialist.",
+                        "After the preliminary diagnosis is determined, the system generates a list of studies and additional consultations. The doctor can either agree with it, or supplement or shorten it. Thanks to this, the doctor spends about 10 times less time on appointments.",
+                        "More than 9 million preliminary diagnoses were made in Moscow with the help of artificial intelligence."
+                    ]
                 }
             ]
         },
