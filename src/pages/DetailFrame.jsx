@@ -8,6 +8,7 @@ import DetailLogo from "../components/DetailLogo";
 import DetailQR from "../components/DetailQR";
 import NestedDetailBlock from "../widgets/NestedDetailBlock";
 import SliderModal from "../components/SliderModal";
+import InlineImage from "../components/InlineImage";
 
 
 const DetailFrame = () => {
@@ -25,7 +26,7 @@ const DetailFrame = () => {
             case "list":
                 return <DetailList key={index} items={item.content} />;
             case "image":
-                return <h1 key={index} >IMAGE</h1>;
+                return <InlineImage key={index} src={item.href} />;
             case "readmore":
                 return <DetailQR key={index} href={item.href} />;
             case "subcategory":
