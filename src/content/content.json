@@ -368,17 +368,37 @@
                         {
                             "type": "subcategory",
                             "name": "Moscow Transportation Complex Development Program",
-                            "content": []
+                            "content": [
+                                {
+                                    "type": "presentation",
+                                    "number": "6",
+                                    "start": "2",
+                                    "end": "19"
+                                }
+                            ]
                         },
                         {
                             "type": "subcategory",
                             "name": "Moscow Smart Transport System",
-                            "content": []
+                            "content": [
+                                {
+                                    "type": "presentation",
+                                    "number": "7",
+                                    "start": "0",
+                                    "end": "18"
+                                }
+                            ]
                         },
                         {
                             "type": "subcategory",
                             "name": "Moscow Electric Bus",
                             "content": [
+                                {
+                                    "type": "presentation",
+                                    "number": "5",
+                                    "start": "0",
+                                    "end": "3"
+                                },
                                 {
                                     "type": "readmore",
                                     "href": "https://transport.mos.ru/transport/elektrobus"
@@ -389,6 +409,12 @@
                             "type": "subcategory",
                             "name": "River Public Transport",
                             "content": [
+                                {
+                                    "type": "presentation",
+                                    "number": "6",
+                                    "start": "21",
+                                    "end": "23"
+                                },
                                 {
                                     "type": "readmore",
                                     "href": "https://transport.mos.ru/reka/transport"

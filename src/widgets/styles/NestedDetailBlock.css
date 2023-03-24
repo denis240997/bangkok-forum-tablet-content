@@ -7,6 +7,10 @@
     align-items: center;
 }
 
+.nestedDetailContent {
+    align-self: stretch;
+}
+
 .nestedDetailBlock > * {
-    margin: 10px 20px 0px 20px;
+    margin-top: 10px;
 }

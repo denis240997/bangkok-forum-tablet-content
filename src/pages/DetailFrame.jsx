@@ -7,6 +7,7 @@ import Awards from "../widgets/Awards";
 import DetailLogo from "../components/DetailLogo";
 import DetailQR from "../components/DetailQR";
 import NestedDetailBlock from "../widgets/NestedDetailBlock";
+import SliderModal from "../components/SliderModal";
 
 
 const DetailFrame = () => {
@@ -16,6 +17,8 @@ const DetailFrame = () => {
 
     const setContent = (item, index) => {
         switch (item.type) {
+            case "presentation":
+                return <SliderModal key={index} {...item} />;
             case "awards":
                 return <Awards key={index} awards={item.content} />;
             case "list":

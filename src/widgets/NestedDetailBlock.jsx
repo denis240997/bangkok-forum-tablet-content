@@ -25,9 +25,9 @@ const NestedDetailBlock = ({ children, title }) => {
     };
 
     return (
-        <div className="nestedDetailBlock" onClick={() => changeState()}>
+        <div className="nestedDetailBlock" onClick={() => changeState()} >
             <h3>{title.toUpperCase()}</h3>
-            <div className="nestedDetailContent" style={style} onClick={() => changeState()}>
+            <div className="nestedDetailContent" style={style} >
                 {children}
             </div>
             <img className='dropDownArrow' src={DropDownLogo} style={arrowStyle} />
