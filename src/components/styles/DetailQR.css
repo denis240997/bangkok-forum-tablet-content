@@ -1,23 +1,14 @@
 .modalBackground {
-    background-color: rgba(0, 0, 0, 0.8);
-
-    position: fixed;
-    top: 0;
-    left: 0;
-    width: 100vw;
-    height: 100vh;
-    z-index: 240997;
-
+    margin-top: 20px;
     display: flex;
-    flex-direction: column;
     justify-content: center;
     align-items: center;
 }
 
 .modalQRCode {
     background-color: white;
-    width: 550px;
-    height: 550px;
+    width: 400px;
+    height: 350px;
     border-radius: 10px;
 
     display: flex;
@@ -26,10 +17,9 @@
 }
 
 .hintQRCode {
-    margin-top: 60px;
-    color: white;
     font-family: RobotoBold;
     font-size: 35px;
+    text-align: center;
 
     display: flex;
     flex-direction: column;
@@ -40,7 +30,6 @@
 .hintQRCode > img {
     margin: 15px;
     width: 100px;
-    filter: invert(100%) sepia(0%) saturate(7432%) hue-rotate(184deg) brightness(107%) contrast(100%);
 }
 
 .expandButton {
