@@ -1,5 +1,5 @@
 import './styles/LogoBar.css'
-import MainLogo from "/src/content/img/tile_pictures/header_logos.png"
+import MainLogo from "/src/content/img/tile_pictures/header_logo.png"
 import { useNavigate } from 'react-router-dom';
 
 
