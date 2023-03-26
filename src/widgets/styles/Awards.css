@@ -1,7 +1,7 @@
 .awardsContainer {
-    margin-top: 34px;
+    margin-top: 1.77083vw;
 
     display: grid;
     grid-template-columns: 1fr 1fr;
-    gap: 45px;
+    gap: 2.34375vw;
 }

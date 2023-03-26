@@ -5,5 +5,5 @@
 
     display: inline-grid;
     grid-template-columns: 1fr 1fr;
-    column-gap: 60px;
+    column-gap: 3.12500vw;
 }

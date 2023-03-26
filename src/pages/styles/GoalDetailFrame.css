@@ -1,13 +1,13 @@
 .subgoalCardsContainer {
   position: relative;
-  padding: 40px 0px 140px 0px;
-  margin-bottom: 60px;
+  padding: 2.08333vw 0.00000vw 7.29167vw 0.00000vw;
+  margin-bottom: 3.12500vw;
   grid-column: 4 / -4;
 
   display: grid;
-  grid-auto-rows: 300px;
+  grid-auto-rows: 15.62500vw;
   grid-template-columns: repeat(18, 1fr);
-  gap: 30px;
+  gap: 1.56250vw;
 }
 
 

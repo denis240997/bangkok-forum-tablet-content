@@ -1,5 +1,5 @@
 .logoBar {
-  padding: 25px;
+  padding: 1.30208vw;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -7,5 +7,5 @@
 
 .mainLogo {
   align-items: center;
-  height: 100px;
+  height: 5.20833vw;
 }

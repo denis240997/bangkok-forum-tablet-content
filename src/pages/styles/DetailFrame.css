@@ -1,17 +1,17 @@
 .detailContainer {
   position: relative;
-  padding: 40px 0px 140px 0px;
-  margin-bottom: 60px;
+  padding: 2.08333vw 0.00000vw 7.29167vw 0.00000vw;
+  margin-bottom: 3.12500vw;
   grid-column: 6 / -6;
 
   font-family: InterMedium;
-  font-size: 26px;
-  line-height: 33px;
+  font-size: 1.35417vw;
+  line-height: 1.71875vw;
   text-align: justify;
 }
 
 .detailContainer > * {
-    margin-bottom: 19px;
+    margin-bottom: 0.98958vw;
 }
 
 .clear {

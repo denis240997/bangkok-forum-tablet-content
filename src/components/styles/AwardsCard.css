@@ -1,7 +1,7 @@
 .awardCard {
     border-style: dashed;
-    border-width: 1px;
-    padding: 27px 32px;
+    border-width: 0.05208vw;
+    padding: 1.40625vw 1.66667vw;
 
     display: flex;
     flex-direction: column;
@@ -13,19 +13,19 @@
 }
 
 .awardList {
-    margin-top: 20px;
+    margin-top: 1.04167vw;
     list-style: none;
     font-family: RobotoBold;
-    font-size: 25px;
+    font-size: 1.30208vw;
     color: var(--text-headers-blue);
 }
 
 .awardList > li {
-    margin-bottom: 10px;
+    margin-bottom: 0.52083vw;
 }
 
 .awardsYear {
     color: var(--text-orange);
     font-family: InterSemiBold;
-    font-size: 40px;
+    font-size: 2.08333vw;
 }

@@ -1,9 +1,10 @@
 .goalCardsContainer {
   grid-column: 7 / -7;
 
-  padding: 25px 0;
+  padding: 1.30208vw 0;
+  height: 44.42708vw;
 
   display: grid;
   grid-template: 1fr 1fr / 1fr 1fr;
-  gap: 25px;
+  gap: 1.30208vw;
 }

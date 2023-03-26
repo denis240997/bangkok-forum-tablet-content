@@ -21,12 +21,12 @@
 .goalCard {
   font-family: RobotoBold, var(--roboto-fallback);
   color: white;
-  font-size: 32px;
-  line-height: 110%;
+  font-size: 1.66667vw;
+  line-height: 1.87500vw;
 
   display: grid;
   grid-template-rows: 1fr 1fr;
-  padding: 30px;
+  padding: 1.56250vw;
 }
 
 .cardNameContainer {
@@ -49,14 +49,14 @@
   filter: invert(1);
 
   position: absolute;
-  height: 8rem;
+  height: 6.77083vw;
 }
 
 .goalNumber {
   font-family: InterSemiBold;
-  font-size: 96px;
-  line-height: 90%;
-  margin-right: 35px;
+  font-size: 5.00000vw;
+  line-height: 4.42708vw;
+  margin-right: 1.82292vw;
 }
 
 

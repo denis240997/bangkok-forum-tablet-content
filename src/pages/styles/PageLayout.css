@@ -10,8 +10,8 @@
   grid-column: 7 / -7;
   font-family: RobotoBlack, var(--roboto-fallback);
   color: var(--text-headers-blue);
-  font-size: 32px;
-  line-height: 110%;
+  font-size: 1.66667vw;
+  line-height: 1.92708vw;
   text-align: center;
-  margin-bottom: 3px;
+  margin-bottom: 0.15625vw;
 }

@@ -54,7 +54,6 @@
 }
 
 body {
-  min-width: 320px;
   min-height: 100vh;
 }
 
@@ -65,8 +64,8 @@ a {
 
 /* Scrollbar */
 ::-webkit-scrollbar {
-  width: 4px;
-  height: 4px;
+  width: 0.20833vw;
+  height: 0.20833vw;
 }
 
 /* Track */
