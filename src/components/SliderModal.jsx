@@ -14,6 +14,12 @@ const range = (start, end) => {
 };
 
 const SliderModal = ({ number, start, end }) => {
+
+    const settings = {
+        dots: true,
+        lazyLoad: true
+    }
+
     console.log([number, start, end])
 
     const renderSlides = () => (
@@ -25,7 +31,7 @@ const SliderModal = ({ number, start, end }) => {
 
     return (
         <div className="sliderModal">
-            <Slider dots={true}>{renderSlides()}</Slider>
+            <Slider {...settings} >{renderSlides()}</Slider>
         </div>
     );
 }
