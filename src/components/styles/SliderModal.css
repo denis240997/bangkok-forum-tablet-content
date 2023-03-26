@@ -5,3 +5,13 @@
 .sliderModal img {
     width: 100%;
 }
+
+.slick-dots {
+    bottom: -1.30208vw;
+}
+
+.slick-dots li {
+    width: 1.04167vw;
+    height: 1.04167vw;
+    margin: 0 0.26042vw;
+}
